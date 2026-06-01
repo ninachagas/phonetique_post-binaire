@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacute" format="2">
+  <advance width="589"/>
+  <unicode hex="00FA"/>
+  <outline>
+    <component base="u"/>
+    <component base="acutecomb" xOffset="182" identifier="2E1922EB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E1922EB</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

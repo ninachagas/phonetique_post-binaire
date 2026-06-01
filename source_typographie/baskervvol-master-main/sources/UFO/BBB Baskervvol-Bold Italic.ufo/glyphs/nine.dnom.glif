@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="464"/>
+  <outline>
+    <component base="nine.sups" xOffset="-98" yOffset="-303" identifier="5A88B876"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>nine.sups</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>nine.sups</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A88B876</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

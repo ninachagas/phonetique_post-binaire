@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03010304" format="2">
+	<advance width="48"/>
+	<anchor x="311" y="709" name="Ancre-9"/>
+	<anchor x="311" y="477" name="_Ancre-1"/>
+	<anchor x="311" y="477" name="_Ancre-10"/>
+	<anchor x="311" y="477" name="_Ancre-11"/>
+	<anchor x="311" y="477" name="_Ancre-6"/>
+	<anchor x="311" y="477" name="_Ancre-9"/>
+	<outline>
+		<contour>
+			<point x="481" y="820" type="curve" smooth="yes"/>
+			<point x="481" y="799"/>
+			<point x="464" y="784"/>
+			<point x="444" y="784" type="curve" smooth="yes"/>
+			<point x="175" y="784" type="line" smooth="yes"/>
+			<point x="155" y="784"/>
+			<point x="139" y="799"/>
+			<point x="139" y="820" type="curve" smooth="yes"/>
+			<point x="139" y="841"/>
+			<point x="155" y="856"/>
+			<point x="175" y="856" type="curve" smooth="yes"/>
+			<point x="444" y="856" type="line" smooth="yes"/>
+			<point x="464" y="856"/>
+			<point x="481" y="841"/>
+		</contour>
+		<contour>
+			<point x="206" y="502" type="curve" smooth="yes"/>
+			<point x="200" y="502"/>
+			<point x="185" y="503"/>
+			<point x="177" y="519" type="curve" smooth="yes"/>
+			<point x="174" y="524"/>
+			<point x="171" y="530"/>
+			<point x="171" y="538" type="curve" smooth="yes"/>
+			<point x="171" y="547"/>
+			<point x="175" y="558"/>
+			<point x="185" y="566" type="curve" smooth="yes"/>
+			<point x="390" y="737" type="line" smooth="yes"/>
+			<point x="396" y="742"/>
+			<point x="404" y="747"/>
+			<point x="414" y="747" type="curve" smooth="yes"/>
+			<point x="419" y="747"/>
+			<point x="430" y="745"/>
+			<point x="440" y="734" type="curve" smooth="yes"/>
+			<point x="447" y="727"/>
+			<point x="451" y="718"/>
+			<point x="451" y="708" type="curve" smooth="yes"/>
+			<point x="451" y="696"/>
+			<point x="444" y="688"/>
+			<point x="437" y="682" type="curve" smooth="yes"/>
+			<point x="368" y="625"/>
+			<point x="300" y="568"/>
+			<point x="231" y="511" type="curve" smooth="yes"/>
+			<point x="224" y="504"/>
+			<point x="215" y="502"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>530</integer>
+						<key>width</key>
+						<integer>200</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>824</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>181</integer>
+						<key>width</key>
+						<integer>236</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

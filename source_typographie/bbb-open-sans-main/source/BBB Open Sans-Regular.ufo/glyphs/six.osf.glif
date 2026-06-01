@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.osf" format="2">
+  <advance width="1177"/>
+  <note>
+six.osf
+</note>
+  <outline>
+    <contour>
+      <point x="118" y="621" type="curve" smooth="yes"/>
+      <point x="118" y="375.667"/>
+      <point x="189.167" y="174.833"/>
+      <point x="336.5" y="63.5" type="curve" smooth="yes"/>
+      <point x="410.167" y="7.833"/>
+      <point x="502.667" y="-20"/>
+      <point x="614" y="-20" type="curve" smooth="yes"/>
+      <point x="907.333" y="-20"/>
+      <point x="1078" y="174.667"/>
+      <point x="1078" y="472" type="curve" smooth="yes"/>
+      <point x="1078" y="753.333"/>
+      <point x="921.333" y="921"/>
+      <point x="648" y="921" type="curve" smooth="yes"/>
+      <point x="497.333" y="921"/>
+      <point x="370" y="849"/>
+      <point x="286" y="725" type="curve"/>
+      <point x="275" y="725" type="line"/>
+      <point x="292.333" y="1143.667"/>
+      <point x="470.333" y="1348"/>
+      <point x="781" y="1348" type="curve" smooth="yes"/>
+      <point x="855" y="1348"/>
+      <point x="918.333" y="1340.333"/>
+      <point x="971" y="1325" type="curve"/>
+      <point x="971" y="1464" type="line"/>
+      <point x="911" y="1477.333"/>
+      <point x="849.667" y="1485"/>
+      <point x="787" y="1485" type="curve" smooth="yes"/>
+      <point x="369.667" y="1487.667"/>
+      <point x="118" y="1207.667"/>
+    </contour>
+    <contour>
+      <point x="610" y="120" type="curve" smooth="yes"/>
+      <point x="422.165" y="120"/>
+      <point x="291" y="279.337"/>
+      <point x="291" y="508" type="curve" smooth="yes"/>
+      <point x="289.667" y="604"/>
+      <point x="357.833" y="694.667"/>
+      <point x="458.5" y="748" type="curve" smooth="yes"/>
+      <point x="508.833" y="774.667"/>
+      <point x="563" y="787.333"/>
+      <point x="621" y="786" type="curve" smooth="yes"/>
+      <point x="809" y="784.667"/>
+      <point x="911" y="668"/>
+      <point x="911" y="472" type="curve" smooth="yes"/>
+      <point x="911" y="244"/>
+      <point x="800.667" y="120"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 59 values pushed */
+6 1 1 0 7 1 2 1 12 1 4 5 3 76 0 2 0 5 4 2 5 105 0 1 1 0 97 0 0 0 46 77 6 1 4 4 3 97 0 3 3 47 3 78 27 26 33 31 26 39 27 39 36 37 36 34 7 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

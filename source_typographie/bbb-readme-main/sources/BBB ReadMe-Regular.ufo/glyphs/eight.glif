@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight" format="2">
+  <advance width="724"/>
+  <unicode hex="0038"/>
+  <outline>
+    <component base="moitie-huit"/>
+    <component base="moitie-huit" xScale="-1" xOffset="724"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-19 16:07:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

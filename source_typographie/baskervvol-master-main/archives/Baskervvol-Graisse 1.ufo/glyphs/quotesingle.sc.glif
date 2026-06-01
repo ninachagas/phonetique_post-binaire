@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle.sc" format="2">
+	<advance width="204"/>
+	<note>
+		quotesingle.sc
+  </note>
+	<outline>
+		<contour>
+			<point x="64" y="397" type="curve"/>
+			<point x="64" y="397" type="line"/>
+			<point x="90" y="214" type="line"/>
+			<point x="114" y="214" type="line"/>
+			<point x="140" y="397" type="line" smooth="yes"/>
+			<point x="141" y="404"/>
+			<point x="141" y="410"/>
+			<point x="141" y="416" type="curve"/>
+			<point x="141" y="445"/>
+			<point x="131" y="469"/>
+			<point x="102" y="469" type="curve"/>
+			<point x="73" y="469"/>
+			<point x="63" y="445"/>
+			<point x="63" y="416" type="curve"/>
+			<point x="63" y="410"/>
+			<point x="63" y="404"/>
+		</contour>
+	</outline>
+</glyph>

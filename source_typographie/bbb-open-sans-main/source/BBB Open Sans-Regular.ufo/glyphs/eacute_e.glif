@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eacute_e" format="2">
+  <advance width="2370"/>
+  <unicode hex="F1920"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="903" y="1569" type="line"/>
+      <point x="702" y="1569" type="line"/>
+      <point x="654" y="1477"/>
+      <point x="561" y="1340"/>
+      <point x="498" y="1265" type="curve"/>
+      <point x="498" y="1241" type="line"/>
+      <point x="609" y="1241" type="line"/>
+      <point x="706" y="1317"/>
+      <point x="849" y="1472"/>
+      <point x="903" y="1549" type="curve"/>
+    </contour>
+    <component base="e" xOffset="1220"/>
+    <component base="boucle_e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-21 16:03:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eacute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

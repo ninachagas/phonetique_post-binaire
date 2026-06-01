@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="764"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="155" y="-15" type="curve" smooth="yes"/>
+      <point x="204" y="-15"/>
+      <point x="335" y="-13"/>
+      <point x="384" y="-13" type="curve" smooth="yes"/>
+      <point x="419" y="-13"/>
+      <point x="581" y="-15"/>
+      <point x="609" y="-15" type="curve" smooth="yes"/>
+      <point x="660" y="-15"/>
+      <point x="674" y="6"/>
+      <point x="674" y="36" type="curve" smooth="yes"/>
+      <point x="674" y="68"/>
+      <point x="660" y="89"/>
+      <point x="609" y="89" type="curve" smooth="yes"/>
+      <point x="581" y="89"/>
+      <point x="426" y="84"/>
+      <point x="386" y="84" type="curve" smooth="yes"/>
+      <point x="347" y="84"/>
+      <point x="183" y="89"/>
+      <point x="155" y="89" type="curve" smooth="yes"/>
+      <point x="101" y="89"/>
+      <point x="90" y="68"/>
+      <point x="90" y="36" type="curve" smooth="yes"/>
+      <point x="90" y="6"/>
+      <point x="101" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-20 21:41:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>endash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endash</string>
+    </dict>
+  </lib>
+</glyph>

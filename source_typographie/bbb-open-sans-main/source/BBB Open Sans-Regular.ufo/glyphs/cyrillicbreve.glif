@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillicbreve" format="2">
+  <advance width="1182"/>
+  <note>
+cyrillicbreve
+</note>
+  <outline>
+    <contour>
+      <point x="805" y="1547" type="line"/>
+      <point x="790.333" y="1405.667"/>
+      <point x="716" y="1357"/>
+      <point x="588" y="1357" type="curve" smooth="yes"/>
+      <point x="444" y="1357"/>
+      <point x="387.667" y="1400.333"/>
+      <point x="373" y="1547" type="curve"/>
+      <point x="217" y="1547" type="line"/>
+      <point x="231.667" y="1340.333"/>
+      <point x="327.667" y="1241"/>
+      <point x="585" y="1241" type="curve" smooth="yes"/>
+      <point x="835.667" y="1241"/>
+      <point x="944.667" y="1345.667"/>
+      <point x="962" y="1547" type="curve"/>
+      <point x="805" y="1547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+4 3 2 1 2 1 133 0 2 0 0 2 89 0 2 2 0 97 0 0 2 0 81 0 0 0 13 0 13 34 18 34 5 7 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

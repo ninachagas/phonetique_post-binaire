@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcircumflexbelow" format="2">
+	<advance width="417"/>
+	<unicode hex="1E71"/>
+	<note>
+		uni1E71
+	</note>
+	<outline>
+		<component base="t"/>
+		<component base="circumflexcomb.below" xOffset="-96" yOffset="-1"/>
+	</outline>
+</glyph>

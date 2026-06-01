@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB49.rvrn" format="2">
+  <advance width="1448"/>
+  <note>
+uniFB49.rvrn
+</note>
+  <outline>
+    <component base="uni05E9"/>
+    <component base="uni05BC.small" xOffset="806" yOffset="39"/>
+  </outline>
+</glyph>

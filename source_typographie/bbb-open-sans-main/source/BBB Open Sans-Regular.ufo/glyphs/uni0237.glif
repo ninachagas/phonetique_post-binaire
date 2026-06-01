@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0237" format="2">
+  <advance width="517"/>
+  <unicode hex="0237"/>
+  <note>
+uni0237
+</note>
+  <outline>
+    <contour>
+      <point x="43" y="-492" type="curve" smooth="yes"/>
+      <point x="247" y="-492"/>
+      <point x="341" y="-374.333"/>
+      <point x="341" y="-173" type="curve" smooth="yes"/>
+      <point x="341" y="1096" type="line"/>
+      <point x="175" y="1096" type="line"/>
+      <point x="175" y="-177" type="line" smooth="yes"/>
+      <point x="175" y="-310.333"/>
+      <point x="113.667" y="-353"/>
+      <point x="23" y="-353" type="curve" smooth="yes"/>
+      <point x="-30.333" y="-353"/>
+      <point x="-70.667" y="-345.333"/>
+      <point x="-112" y="-332" type="curve"/>
+      <point x="-112" y="-467" type="line"/>
+      <point x="-74.667" y="-480.333"/>
+      <point x="-25" y="-492"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 40 values pushed */
+4 1 1 2 3 1 0 1 2 76 0 2 2 122 77 0 1 1 0 97 3 1 0 0 130 0 78 1 0 12 11 8 6 0 15 1 15 4 14 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.salt" format="2">
+  <advance width="1231"/>
+  <note>
+IJ.salt
+</note>
+  <outline>
+    <component base="I.salt"/>
+    <component base="J" xOffset="682"/>
+  </outline>
+</glyph>

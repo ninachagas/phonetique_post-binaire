@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1076"/>
+  <unicode hex="0138"/>
+  <note>
+kgreenlandic
+</note>
+  <outline>
+    <contour>
+      <point x="825" y="1096" type="line"/>
+      <point x="427" y="629" type="line" smooth="yes"/>
+      <point x="414.333" y="612.333"/>
+      <point x="400.5" y="594.833"/>
+      <point x="385.5" y="576.5" type="curve" smooth="yes"/>
+      <point x="370.5" y="558.167"/>
+      <point x="356.333" y="540"/>
+      <point x="343" y="522" type="curve"/>
+      <point x="339" y="522" type="line"/>
+      <point x="345.667" y="584.667"/>
+      <point x="351" y="700.667"/>
+      <point x="351" y="810" type="curve" smooth="yes"/>
+      <point x="351" y="1096" type="line"/>
+      <point x="175" y="1096" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="381" type="line"/>
+      <point x="494" y="505" type="line"/>
+      <point x="862" y="0" type="line"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="611" y="612" type="line"/>
+      <point x="1026" y="1096" type="line"/>
+      <point x="825" y="1096" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+13 5 4 1 4 0 2 1 76 4 3 2 2 2 122 77 1 1 0 0 120 0 78 0 0 0 18 0 18 17 19 18 5 14 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

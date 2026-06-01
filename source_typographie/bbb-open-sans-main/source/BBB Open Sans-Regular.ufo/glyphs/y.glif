@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="1026"/>
+  <unicode hex="0079"/>
+  <note>
+y
+</note>
+  <outline>
+    <contour>
+      <point x="441" y="-2" type="line"/>
+      <point x="381" y="-156" type="line" smooth="yes"/>
+      <point x="333" y="-281.333"/>
+      <point x="260.667" y="-355"/>
+      <point x="138" y="-355" type="curve" smooth="yes"/>
+      <point x="92.667" y="-355"/>
+      <point x="48.333" y="-348.667"/>
+      <point x="19" y="-342" type="curve"/>
+      <point x="19" y="-475" type="line"/>
+      <point x="53.667" y="-484.333"/>
+      <point x="101.333" y="-493"/>
+      <point x="164" y="-493" type="curve" smooth="yes"/>
+      <point x="368" y="-493"/>
+      <point x="473" y="-363.667"/>
+      <point x="549" y="-161" type="curve" smooth="yes"/>
+      <point x="1026" y="1096" type="line"/>
+      <point x="847" y="1096" type="line"/>
+      <point x="618" y="461" type="line" smooth="yes"/>
+      <point x="578" y="347.667"/>
+      <point x="540.667" y="229.667"/>
+      <point x="522" y="163" type="curve"/>
+      <point x="515" y="163" type="line"/>
+      <point x="497.667" y="249.667"/>
+      <point x="463.333" y="346.667"/>
+      <point x="422" y="460" type="curve" smooth="yes"/>
+      <point x="180" y="1096" type="line"/>
+      <point x="2" y="1096" type="line"/>
+      <point x="441" y="-2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 36 values pushed */
+26 19 5 3 3 0 18 1 2 3 2 76 1 1 0 0 122 77 0 3 3 2 97 0 2 2 130 2 78 37 35 25 16 4 14 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

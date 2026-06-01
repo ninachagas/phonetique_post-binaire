@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresismacron" format="2">
+	<advance width="625"/>
+	<unicode hex="01D6"/>
+	<note>
+		uni01D6
+	</note>
+	<outline>
+		<component base="u"/>
+		<component base="dieresiscomb.macroncomb" xOffset="107"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>u</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="804"/>
+  <note>
+one.osf
+</note>
+  <outline>
+    <contour>
+      <point x="614" y="1118" type="line"/>
+      <point x="474" y="1118" type="line"/>
+      <point x="42" y="804" type="line"/>
+      <point x="124" y="691" type="line"/>
+      <point x="332" y="844" type="line" smooth="yes"/>
+      <point x="386.667" y="882.667"/>
+      <point x="429.667" y="922.333"/>
+      <point x="455" y="949" type="curve"/>
+      <point x="449.667" y="879.667"/>
+      <point x="446" y="774"/>
+      <point x="446" y="666" type="curve" smooth="yes"/>
+      <point x="446" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="1118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 8 values pushed */
+10 9 5 3 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 43 77 0 0 0 42 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 95 0 0 0 42 0 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+26 16 2 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

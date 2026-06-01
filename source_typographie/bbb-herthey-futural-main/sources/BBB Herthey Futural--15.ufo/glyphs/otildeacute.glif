@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otildeacute" format="2">
+	<advance width="617"/>
+	<unicode hex="1E4D"/>
+	<note>
+		uni1E4D
+	</note>
+	<outline>
+		<component base="o"/>
+		<component base="tildecomb.acutecomb" xOffset="9"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
+		</dict>
+	</lib>
+</glyph>

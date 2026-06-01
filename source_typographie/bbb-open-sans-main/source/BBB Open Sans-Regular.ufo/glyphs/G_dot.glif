@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdot" format="2">
+  <advance width="1489"/>
+  <unicode hex="0120"/>
+  <note>
+Gdot
+</note>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccent" xOffset="649" yOffset="367"/>
+  </outline>
+</glyph>

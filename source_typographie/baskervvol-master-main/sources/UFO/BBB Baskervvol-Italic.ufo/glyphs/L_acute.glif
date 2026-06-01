@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="639"/>
+  <unicode hex="0139"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecomb.case" xOffset="89" identifier="5D66C659"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D66C659</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

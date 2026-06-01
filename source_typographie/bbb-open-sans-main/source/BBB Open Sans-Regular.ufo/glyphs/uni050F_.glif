@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni050F" format="2">
+  <advance width="1329"/>
+  <unicode hex="050F"/>
+  <note>
+uni050F
+</note>
+  <outline>
+    <contour>
+      <point x="41" y="1096" type="line"/>
+      <point x="41" y="959" type="line"/>
+      <point x="390" y="959" type="line"/>
+      <point x="390" y="376" type="line" smooth="yes"/>
+      <point x="390" y="106.667"/>
+      <point x="536.667" y="-20"/>
+      <point x="782" y="-20" type="curve" smooth="yes"/>
+      <point x="1032.667" y="-20"/>
+      <point x="1164" y="108.667"/>
+      <point x="1164" y="374" type="curve" smooth="yes"/>
+      <point x="1164" y="700" type="line"/>
+      <point x="999" y="700" type="line"/>
+      <point x="999" y="384" type="line" smooth="yes"/>
+      <point x="999" y="200"/>
+      <point x="924.667" y="120"/>
+      <point x="782" y="120" type="curve" smooth="yes"/>
+      <point x="626" y="120"/>
+      <point x="556" y="204"/>
+      <point x="556" y="384" type="curve" smooth="yes"/>
+      <point x="556" y="959" type="line"/>
+      <point x="907" y="959" type="line"/>
+      <point x="907" y="1096" type="line"/>
+      <point x="41" y="1096" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 45 values pushed */
+0 2 0 1 0 2 1 128 4 1 0 0 5 95 6 1 5 5 43 77 0 1 1 3 97 0 3 3 47 3 78 0 0 0 21 0 21 19 35 19 35 17 7 7 27 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

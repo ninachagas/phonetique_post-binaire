@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a_u_l_a.001" format="2">
+  <advance width="3501"/>
+  <outline>
+    <component base="a" xOffset="2879" identifier="DFDAE807"/>
+    <component base="l" xOffset="2468" identifier="1B09D7AD"/>
+    <component base="a"/>
+    <component base="aacute" xOffset="1587"/>
+    <component base="u_boucle" xOffset="581"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-20 21:32:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1B09D7AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DFDAE807</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

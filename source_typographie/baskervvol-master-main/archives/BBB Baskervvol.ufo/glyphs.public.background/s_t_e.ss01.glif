@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s_t_e.ss01" format="2">
+	<advance width="1144"/>
+	<outline>
+		<component base="s_t.ss01"/>
+		<component base="t_e" xOffset="400"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>t_e</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

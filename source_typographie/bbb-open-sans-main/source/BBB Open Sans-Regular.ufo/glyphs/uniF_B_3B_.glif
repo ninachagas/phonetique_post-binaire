@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB3B" format="2">
+  <advance width="992"/>
+  <unicode hex="FB3B"/>
+  <note>
+uniFB3B
+</note>
+  <outline>
+    <component base="uni05DB"/>
+    <component base="uni05BC" xOffset="350" yOffset="82"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="465"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="52" y="185" type="line"/>
+      <point x="414" y="185" type="line"/>
+      <point x="422" y="209" type="line"/>
+      <point x="60" y="209" type="line"/>
+    </contour>
+    <component base="a.sups"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a.sups</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a.sups</string>
+    </dict>
+  </lib>
+</glyph>

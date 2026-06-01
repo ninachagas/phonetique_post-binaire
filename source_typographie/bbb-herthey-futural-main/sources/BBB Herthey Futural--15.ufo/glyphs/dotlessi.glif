@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+	<advance width="251"/>
+	<unicode hex="0131"/>
+	<anchor x="127" y="538" name="top"/>
+	<note>
+		dotlessi
+	</note>
+	<outline>
+		<contour>
+			<point x="115" y="11" type="line" smooth="yes"/>
+			<point x="115" y="-1"/>
+			<point x="136" y="-1"/>
+			<point x="136" y="11" type="curve" smooth="yes"/>
+			<point x="136" y="513" type="line" smooth="yes"/>
+			<point x="136" y="523"/>
+			<point x="115" y="526"/>
+			<point x="115" y="513" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>i</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>i</string>
+		</dict>
+	</lib>
+</glyph>

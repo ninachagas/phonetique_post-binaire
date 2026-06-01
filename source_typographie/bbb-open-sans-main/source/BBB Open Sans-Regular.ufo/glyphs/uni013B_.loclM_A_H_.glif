@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni013B.loclMAH" format="2">
+  <advance width="1069"/>
+  <note>
+uni013B.loclMAH
+</note>
+  <outline>
+    <component base="L"/>
+    <component base="cedilla" xOffset="409"/>
+  </outline>
+</glyph>

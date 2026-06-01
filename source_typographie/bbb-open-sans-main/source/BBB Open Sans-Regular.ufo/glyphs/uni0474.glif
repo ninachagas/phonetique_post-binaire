@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0474" format="2">
+  <advance width="1284"/>
+  <unicode hex="0474"/>
+  <note>
+uni0474
+</note>
+  <outline>
+    <contour>
+      <point x="1251" y="1334" type="curve" smooth="yes"/>
+      <point x="1287" y="1334"/>
+      <point x="1318" y="1325.667"/>
+      <point x="1350" y="1315" type="curve"/>
+      <point x="1350" y="1455" type="line"/>
+      <point x="1318" y="1463"/>
+      <point x="1274.667" y="1475"/>
+      <point x="1228" y="1475" type="curve" smooth="yes"/>
+      <point x="1100" y="1475"/>
+      <point x="1031.5" y="1423.667"/>
+      <point x="977.5" y="1305" type="curve" smooth="yes"/>
+      <point x="950.5" y="1245.667"/>
+      <point x="921.667" y="1166.667"/>
+      <point x="891" y="1068" type="curve" smooth="yes"/>
+      <point x="719" y="525" type="line" smooth="yes"/>
+      <point x="677.667" y="387.667"/>
+      <point x="645.667" y="278.667"/>
+      <point x="623" y="176" type="curve"/>
+      <point x="599" y="276"/>
+      <point x="570" y="367.667"/>
+      <point x="522" y="505" type="curve" smooth="yes"/>
+      <point x="178" y="1462" type="line"/>
+      <point x="0" y="1462" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="1055" y="1051" type="line" smooth="yes"/>
+      <point x="1086.333" y="1150.333"/>
+      <point x="1114.833" y="1222.333"/>
+      <point x="1140.5" y="1267" type="curve" smooth="yes"/>
+      <point x="1166.167" y="1311.667"/>
+      <point x="1203" y="1334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 11 values pushed */
+22 1 0 2 23 11 2 1 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 0 0 2 97 3 1 2 2 41 77 0 1 1 42 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+0 2 2 41 77 4 1 0 0 3 97 0 3 3 46 77 0 1 1 42 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 15 values pushed */
+1 0 20 18 7 6 5 4 0 25 1 25 5 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

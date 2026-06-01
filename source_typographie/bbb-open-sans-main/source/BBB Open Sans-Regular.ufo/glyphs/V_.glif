@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="1221"/>
+  <unicode hex="0056"/>
+  <note>
+V
+</note>
+  <outline>
+    <contour>
+      <point x="1041" y="1462" type="line"/>
+      <point x="701" y="502" type="line" smooth="yes"/>
+      <point x="659.667" y="384.667"/>
+      <point x="628.667" y="283"/>
+      <point x="610" y="191" type="curve"/>
+      <point x="590.667" y="281"/>
+      <point x="560.667" y="383.667"/>
+      <point x="520" y="499" type="curve" smooth="yes"/>
+      <point x="178" y="1462" type="line"/>
+      <point x="0" y="1462" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
+      <point x="1221" y="1462" type="line"/>
+      <point x="1041" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 30 values pushed */
+7 1 0 1 1 76 3 2 2 1 1 119 77 0 0 0 120 0 78 0 0 0 11 0 11 17 17 4 14 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

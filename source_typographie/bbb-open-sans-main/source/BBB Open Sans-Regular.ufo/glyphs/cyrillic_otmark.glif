@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillic_otmark" format="2">
+  <advance width="1190"/>
+  <note>
+cyrillic_otmark
+</note>
+  <outline>
+    <contour>
+      <point x="181" y="1444" type="line"/>
+      <point x="181" y="1412" type="line"/>
+      <point x="255" y="1246" type="line"/>
+      <point x="287" y="1246" type="line"/>
+      <point x="333" y="1348" type="line"/>
+      <point x="525" y="1348" type="line"/>
+      <point x="571" y="1246" type="line"/>
+      <point x="604" y="1246" type="line"/>
+      <point x="650" y="1348" type="line"/>
+      <point x="845" y="1348" type="line"/>
+      <point x="891" y="1246" type="line"/>
+      <point x="923" y="1246" type="line"/>
+      <point x="999" y="1412" type="line"/>
+      <point x="999" y="1444" type="line"/>
+      <point x="181" y="1444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 7 values pushed */
+12 1 2 1 5 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 27 values pushed */
+4 2 2 0 1 1 0 113 6 1 5 1 1 5 87 6 1 5 5 1 95 3 1 1 5 1 79 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 26 values pushed */
+4 2 2 0 1 0 134 6 1 5 1 1 5 87 6 1 5 5 1 95 3 1 1 5 1 79 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 13 0 13 17 17 17 17 18 7 6 27 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

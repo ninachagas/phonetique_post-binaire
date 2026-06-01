@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gacute" format="2">
+	<advance width="631"/>
+	<unicode hex="01F5"/>
+	<note>
+		uni01F5
+	</note>
+	<outline>
+		<component base="g"/>
+		<component base="acutecomb" xOffset="148" yOffset="-30"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>g</string>
+		</dict>
+	</lib>
+</glyph>

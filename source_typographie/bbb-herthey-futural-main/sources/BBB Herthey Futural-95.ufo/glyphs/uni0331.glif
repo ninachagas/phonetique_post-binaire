@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331" format="2">
+	<advance width="48"/>
+	<unicode hex="0331"/>
+	<anchor x="213" y="19" name="_Ancre-0"/>
+	<anchor x="213" y="19" name="_Ancre-4"/>
+	<outline>
+		<contour>
+			<point x="414" y="-89" type="curve" smooth="yes"/>
+			<point x="414" y="-126"/>
+			<point x="384" y="-152"/>
+			<point x="351" y="-152" type="curve" smooth="yes"/>
+			<point x="82" y="-152" type="line" smooth="yes"/>
+			<point x="49" y="-152"/>
+			<point x="19" y="-126"/>
+			<point x="19" y="-89" type="curve" smooth="yes"/>
+			<point x="19" y="-52"/>
+			<point x="49" y="-27"/>
+			<point x="82" y="-27" type="curve" smooth="yes"/>
+			<point x="351" y="-27" type="line" smooth="yes"/>
+			<point x="384" y="-27"/>
+			<point x="414" y="-52"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-123</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>55</integer>
+						<key>width</key>
+						<integer>301</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

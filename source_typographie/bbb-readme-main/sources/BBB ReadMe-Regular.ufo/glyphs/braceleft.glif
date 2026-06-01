@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="545"/>
+  <unicode hex="007B"/>
+  <outline>
+    <component base="demi-brace" xOffset="-8" identifier="F65FA219"/>
+    <component base="demi-brace" yScale="-1" xOffset="-8" yOffset="644" identifier="B369DC91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 10:51:29 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B369DC91</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F65FA219</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="541"/>
+  <unicode hex="0021"/>
+  <note>
+exclam
+</note>
+  <outline>
+    <contour>
+      <point x="371" y="1462" type="line"/>
+      <point x="170" y="1462" type="line"/>
+      <point x="216" y="406" type="line"/>
+      <point x="325" y="406" type="line"/>
+      <point x="371" y="1462" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="104" type="curve" smooth="yes"/>
+      <point x="150" y="12"/>
+      <point x="201" y="-28"/>
+      <point x="269" y="-28" type="curve" smooth="yes"/>
+      <point x="335.667" y="-28"/>
+      <point x="388" y="12"/>
+      <point x="388" y="104" type="curve" smooth="yes"/>
+      <point x="388" y="197.333"/>
+      <point x="335.667" y="233"/>
+      <point x="269" y="233" type="curve" smooth="yes"/>
+      <point x="201" y="233"/>
+      <point x="150" y="197.333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+0 0 0 1 95 0 1 1 119 77 0 2 2 3 97 0 3 3 126 3 78 36 35 17 16 4 14 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

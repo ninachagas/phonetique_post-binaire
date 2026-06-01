@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookcomb" format="2">
+	<advance width="340"/>
+	<outline>
+		<contour>
+			<point x="82" y="550" type="curve" smooth="yes"/>
+			<point x="62" y="550"/>
+			<point x="46" y="566"/>
+			<point x="46" y="588" type="curve" smooth="yes"/>
+			<point x="46" y="720" type="line"/>
+			<point x="62" y="720" type="line"/>
+			<point x="120" y="779" type="line" smooth="yes"/>
+			<point x="123" y="782"/>
+			<point x="131" y="789"/>
+			<point x="144" y="789" type="curve" smooth="yes"/>
+			<point x="144" y="789"/>
+			<point x="145" y="789"/>
+			<point x="145" y="789" type="curve" smooth="yes"/>
+			<point x="294" y="789" type="line"/>
+			<point x="294" y="717" type="line"/>
+			<point x="163" y="717" type="line"/>
+			<point x="152" y="706"/>
+			<point x="130" y="684"/>
+			<point x="118" y="672" type="curve"/>
+			<point x="118" y="587" type="line" smooth="yes"/>
+			<point x="118" y="566"/>
+			<point x="102" y="550"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>754</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>50</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

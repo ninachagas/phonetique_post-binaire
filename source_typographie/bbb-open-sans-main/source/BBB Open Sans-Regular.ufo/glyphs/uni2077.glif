@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2077" format="2">
+  <advance width="712"/>
+  <unicode hex="2077"/>
+  <note>
+uni2077
+</note>
+  <outline>
+    <contour>
+      <point x="304" y="852" type="line"/>
+      <point x="658" y="1635" type="line"/>
+      <point x="658" y="1729" type="line"/>
+      <point x="58" y="1729" type="line"/>
+      <point x="58" y="1614" type="line"/>
+      <point x="516" y="1614" type="line"/>
+      <point x="163" y="852" type="line"/>
+      <point x="304" y="852" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 39 values pushed */
+5 1 0 1 1 76 3 1 2 0 2 134 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 0 0 0 6 0 6 17 17 4 13 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

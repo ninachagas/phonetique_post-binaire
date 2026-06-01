@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prmplateform" format="2">
+  <advance width="856"/>
+  <outline>
+    <contour>
+      <point x="168" y="-12" type="curve" smooth="yes"/>
+      <point x="198" y="-12"/>
+      <point x="215" y="3"/>
+      <point x="215" y="47" type="curve" smooth="yes"/>
+      <point x="215" y="67"/>
+      <point x="223" y="78"/>
+      <point x="248" y="78" type="curve" smooth="yes"/>
+      <point x="608" y="78" type="line" smooth="yes"/>
+      <point x="633" y="78"/>
+      <point x="641" y="67"/>
+      <point x="641" y="47" type="curve" smooth="yes"/>
+      <point x="641" y="3"/>
+      <point x="658" y="-12"/>
+      <point x="688" y="-12" type="curve" smooth="yes"/>
+      <point x="715" y="-12"/>
+      <point x="727" y="-2"/>
+      <point x="727" y="21" type="curve" smooth="yes"/>
+      <point x="727" y="38"/>
+      <point x="721" y="53"/>
+      <point x="721" y="67" type="curve" smooth="yes"/>
+      <point x="721" y="93"/>
+      <point x="786" y="79"/>
+      <point x="786" y="126" type="curve" smooth="yes"/>
+      <point x="786" y="143"/>
+      <point x="772" y="163"/>
+      <point x="741" y="163" type="curve" smooth="yes"/>
+      <point x="708" y="163"/>
+      <point x="676" y="160"/>
+      <point x="638" y="159" type="curve" smooth="yes"/>
+      <point x="499" y="157"/>
+      <point x="360" y="154"/>
+      <point x="221" y="158" type="curve" smooth="yes"/>
+      <point x="183" y="159"/>
+      <point x="148" y="163"/>
+      <point x="115" y="163" type="curve" smooth="yes"/>
+      <point x="84" y="163"/>
+      <point x="70" y="143"/>
+      <point x="70" y="126" type="curve" smooth="yes"/>
+      <point x="70" y="79"/>
+      <point x="135" y="93"/>
+      <point x="135" y="67" type="curve" smooth="yes"/>
+      <point x="135" y="53"/>
+      <point x="129" y="38"/>
+      <point x="129" y="21" type="curve" smooth="yes"/>
+      <point x="129" y="-2"/>
+      <point x="141" y="-12"/>
+    </contour>
+    <component base="prmperson" xScale="0.7655" yScale="0.7655" xOffset="139" yOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-20 21:41:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

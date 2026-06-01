@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_t_e_s" format="2">
+  <advance width="1642"/>
+  <unicode hex="F4930"/>
+  <outline>
+    <component base="s_t"/>
+    <contour>
+      <point x="772" y="446" type="line"/>
+      <point x="772" y="406" type="line"/>
+      <point x="884" y="406" type="line"/>
+      <point x="884" y="446" type="line"/>
+    </contour>
+    <component base="e_s" xOffset="799" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,0.5</string>
+    </dict>
+  </lib>
+</glyph>

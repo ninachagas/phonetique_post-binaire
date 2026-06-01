@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="1510"/>
+  <unicode hex="0126"/>
+  <note>
+Hbar
+</note>
+  <outline>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="689" type="line"/>
+      <point x="1138" y="689" type="line"/>
+      <point x="1138" y="0" type="line"/>
+      <point x="1308" y="0" type="line"/>
+      <point x="1308" y="1077" type="line"/>
+      <point x="1508" y="1077" type="line"/>
+      <point x="1508" y="1214" type="line"/>
+      <point x="1308" y="1214" type="line"/>
+      <point x="1308" y="1462" type="line"/>
+      <point x="1138" y="1462" type="line"/>
+      <point x="1138" y="1214" type="line"/>
+      <point x="370" y="1214" type="line"/>
+      <point x="370" y="1462" type="line"/>
+      <point x="200" y="1462" type="line"/>
+      <point x="200" y="1214" type="line"/>
+      <point x="0" y="1214" type="line"/>
+      <point x="0" y="1077" type="line"/>
+      <point x="200" y="1077" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="1077" type="line"/>
+      <point x="1138" y="1077" type="line"/>
+      <point x="1138" y="839" type="line"/>
+      <point x="370" y="839" type="line"/>
+      <point x="370" y="1077" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 56 values pushed */
+5 3 2 1 11 6 2 0 10 1 0 103 0 10 0 8 7 10 8 103 4 1 2 2 119 77 12 9 2 7 7 120 7 78 0 0 23 22 21 20 0 19 0 19 17 17 17 17 17 17 17 17 17 13 14 31 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

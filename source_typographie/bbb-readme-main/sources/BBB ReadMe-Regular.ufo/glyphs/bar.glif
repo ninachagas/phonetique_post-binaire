@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="357"/>
+  <unicode hex="007C"/>
+  <outline>
+    <component base="emdash" xScale="0" xyScale="-1" yScale="0" yxScale="-1.1025" xOffset="521" yOffset="906"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 10:51:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

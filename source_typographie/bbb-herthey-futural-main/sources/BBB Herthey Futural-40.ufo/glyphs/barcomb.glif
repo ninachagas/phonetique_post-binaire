@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="barcomb" format="2">
+	<advance width="164"/>
+	<outline>
+		<contour>
+			<point x="119" y="-72" type="line" smooth="yes"/>
+			<point x="119" y="-92"/>
+			<point x="103" y="-108"/>
+			<point x="83" y="-108" type="curve" smooth="yes"/>
+			<point x="61" y="-108"/>
+			<point x="46" y="-92"/>
+			<point x="46" y="-72" type="curve" smooth="yes"/>
+			<point x="46" y="804" type="line" smooth="yes"/>
+			<point x="46" y="826"/>
+			<point x="62" y="842"/>
+			<point x="82" y="842" type="curve" smooth="yes"/>
+			<point x="102" y="842"/>
+			<point x="119" y="826"/>
+			<point x="119" y="804" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-250</integer>
+						<key>width</key>
+						<integer>1167</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>50</integer>
+						<key>width</key>
+						<integer>21</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dmacronbelow" format="2">
+	<advance width="631"/>
+	<unicode hex="1E0F"/>
+	<note>
+		uni1E0F
+	</note>
+	<outline>
+		<component base="d"/>
+		<component base="macronbelowcomb" xOffset="114" yOffset="-1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>d</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>d</string>
+		</dict>
+	</lib>
+</glyph>

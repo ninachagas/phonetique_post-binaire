@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D_E" format="2">
+	<advance width="1169"/>
+	<unicode hex="F1610"/>
+	<note>
+		a_o
+	</note>
+	<outline>
+		<contour>
+			<point x="308" y="28" type="line"/>
+			<point x="308" y="0" type="line"/>
+			<point x="1119" y="0" type="line"/>
+			<point x="1122" y="90" type="line"/>
+			<point x="1129" y="210" type="line"/>
+			<point x="1104" y="210" type="line"/>
+			<point x="1091" y="55"/>
+			<point x="1059" y="28"/>
+			<point x="943" y="28" type="curve"/>
+		</contour>
+		<contour>
+			<point x="278" y="710" type="line"/>
+			<point x="278" y="681" type="line"/>
+			<point x="883" y="681" type="line" smooth="yes"/>
+			<point x="1031" y="681"/>
+			<point x="1063" y="667"/>
+			<point x="1082" y="546" type="curve"/>
+			<point x="1106" y="546" type="line"/>
+			<point x="1098" y="638" type="line"/>
+			<point x="1096" y="710" type="line"/>
+		</contour>
+		<contour>
+			<point x="741" y="388" type="line"/>
+			<point x="741" y="360" type="line"/>
+			<point x="863" y="360" type="line" smooth="yes"/>
+			<point x="909" y="360"/>
+			<point x="934" y="323"/>
+			<point x="934" y="226" type="curve"/>
+			<point x="959" y="226" type="line"/>
+			<point x="956" y="374" type="line"/>
+			<point x="959" y="508" type="line"/>
+			<point x="934" y="508" type="line"/>
+			<point x="929" y="409"/>
+			<point x="902" y="388"/>
+			<point x="863" y="388" type="curve"/>
+		</contour>
+		<component base="D"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+		</dict>
+	</lib>
+</glyph>

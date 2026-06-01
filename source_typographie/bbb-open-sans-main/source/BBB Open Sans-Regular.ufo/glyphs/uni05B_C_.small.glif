@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05BC.small" format="2">
+  <advance width="0"/>
+  <note>
+uni05BC.small
+</note>
+  <outline>
+    <contour>
+      <point x="-1" y="351" type="curve" smooth="yes"/>
+      <point x="43" y="351"/>
+      <point x="65" y="370.667"/>
+      <point x="65" y="410" type="curve" smooth="yes"/>
+      <point x="65" y="444.667"/>
+      <point x="39" y="469"/>
+      <point x="-1" y="469" type="curve" smooth="yes"/>
+      <point x="-21.667" y="469"/>
+      <point x="-37.333" y="463.667"/>
+      <point x="-48" y="453" type="curve" smooth="yes"/>
+      <point x="-59.333" y="441.667"/>
+      <point x="-65" y="427.333"/>
+      <point x="-65" y="410" type="curve" smooth="yes"/>
+      <point x="-65" y="370.667"/>
+      <point x="-43.667" y="351"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+0 1 0 0 1 89 0 1 1 0 97 2 1 0 1 0 81 1 0 7 5 0 10 1 10 3 6 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

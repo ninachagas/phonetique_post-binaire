@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="six.tf" xScale="-1" yScale="-1" xOffset="560" yOffset="713" identifier="DD64D792"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>540</integer>
+        <key>useSpacing</key>
+        <integer>30</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>nine</string>
+        </dict>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>DD64D792</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

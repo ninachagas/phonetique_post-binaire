@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vturned" format="2">
+  <advance width="846"/>
+  <unicode hex="0245"/>
+  <outline>
+    <component base="V" xScale="-1" yScale="-1" xOffset="846" yOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 09:22:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

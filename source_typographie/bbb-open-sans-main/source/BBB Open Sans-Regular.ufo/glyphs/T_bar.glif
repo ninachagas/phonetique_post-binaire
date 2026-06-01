@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="1128"/>
+  <unicode hex="0166"/>
+  <note>
+Tbar
+</note>
+  <outline>
+    <contour>
+      <point x="646" y="0" type="line"/>
+      <point x="646" y="673" type="line"/>
+      <point x="959" y="673" type="line"/>
+      <point x="959" y="813" type="line"/>
+      <point x="646" y="813" type="line"/>
+      <point x="646" y="1310" type="line"/>
+      <point x="1107" y="1310" type="line"/>
+      <point x="1107" y="1462" type="line"/>
+      <point x="18" y="1462" type="line"/>
+      <point x="18" y="1310" type="line"/>
+      <point x="477" y="1310" type="line"/>
+      <point x="477" y="813" type="line"/>
+      <point x="162" y="813" type="line"/>
+      <point x="162" y="673" type="line"/>
+      <point x="477" y="673" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="646" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 44 values pushed */
+5 1 1 6 1 0 7 1 0 103 4 1 2 2 3 95 0 3 3 119 77 8 1 7 7 120 7 78 0 0 0 15 0 15 17 17 17 17 17 17 17 9 14 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

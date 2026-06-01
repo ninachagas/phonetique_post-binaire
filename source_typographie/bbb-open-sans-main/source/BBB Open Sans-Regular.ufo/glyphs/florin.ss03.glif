@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin.ss03" format="2">
+  <advance width="839"/>
+  <note>
+florin.ss03
+</note>
+  <outline>
+    <contour>
+      <point x="263" y="-31" type="curve" smooth="yes"/>
+      <point x="451" y="-31"/>
+      <point x="541" y="92.333"/>
+      <point x="541" y="299" type="curve" smooth="yes"/>
+      <point x="541" y="966" type="line"/>
+      <point x="813" y="966" type="line"/>
+      <point x="813" y="1096" type="line"/>
+      <point x="541" y="1096" type="line"/>
+      <point x="541" y="1176" type="line" smooth="yes"/>
+      <point x="541" y="1350.667"/>
+      <point x="599.333" y="1430"/>
+      <point x="726" y="1430" type="curve" smooth="yes"/>
+      <point x="784.667" y="1430"/>
+      <point x="843.667" y="1414.667"/>
+      <point x="889" y="1400" type="curve"/>
+      <point x="932" y="1531" type="line"/>
+      <point x="878.667" y="1549.667"/>
+      <point x="808" y="1567"/>
+      <point x="724" y="1567" type="curve" smooth="yes"/>
+      <point x="500" y="1567"/>
+      <point x="375" y="1450"/>
+      <point x="375" y="1174" type="curve" smooth="yes"/>
+      <point x="375" y="1101" type="line"/>
+      <point x="180" y="1046" type="line"/>
+      <point x="180" y="966" type="line"/>
+      <point x="375" y="966" type="line"/>
+      <point x="375" y="294" type="line" smooth="yes"/>
+      <point x="375" y="156.667"/>
+      <point x="326.333" y="108"/>
+      <point x="245" y="108" type="curve" smooth="yes"/>
+      <point x="177" y="108"/>
+      <point x="124" y="153.333"/>
+      <point x="124" y="244" type="curve" smooth="yes"/>
+      <point x="124" y="261.333"/>
+      <point x="125.667" y="277.333"/>
+      <point x="129" y="292" type="curve"/>
+      <point x="-13" y="324" type="line"/>
+      <point x="-22.333" y="293.333"/>
+      <point x="-25" y="261.333"/>
+      <point x="-25" y="232" type="curve" smooth="yes"/>
+      <point x="-25" y="72"/>
+      <point x="88.333" y="-31"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 71 values pushed */
+26 1 4 3 27 19 2 5 4 18 1 2 5 6 1 1 2 4 76 0 3 0 4 5 3 4 105 6 1 2 2 5 95 0 5 5 43 77 0 1 1 0 97 7 1 0 0 47 0 78 1 0 37 36 35 34 31 29 24 22 17 16 13 11 0 40 1 40 8 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_e" format="2">
+  <advance width="494"/>
+  <unicode hex="F3310"/>
+  <outline>
+    <component base="l" identifier="29B76A64"/>
+    <component base="e-coupe" xOffset="121" identifier="C2CA6AEC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e-coupe</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>29B76A64</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C2CA6AEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.sups" format="2">
+  <advance width="389"/>
+  <outline>
+    <contour>
+      <point x="156" y="299" type="curve" smooth="yes"/>
+      <point x="289" y="299"/>
+      <point x="355" y="374"/>
+      <point x="355" y="443" type="curve" smooth="yes"/>
+      <point x="355" y="503"/>
+      <point x="306" y="559"/>
+      <point x="206" y="559" type="curve" smooth="yes"/>
+      <point x="164" y="559"/>
+      <point x="113" y="545"/>
+      <point x="90" y="514" type="curve"/>
+      <point x="99" y="511" type="line"/>
+      <point x="99" y="606" type="line"/>
+      <point x="188" y="606" type="line" smooth="yes"/>
+      <point x="264" y="606"/>
+      <point x="331" y="623"/>
+      <point x="331" y="723" type="curve"/>
+      <point x="307" y="723" type="line"/>
+      <point x="306" y="711"/>
+      <point x="282" y="710"/>
+      <point x="255" y="710" type="curve" smooth="yes"/>
+      <point x="63" y="710" type="line"/>
+      <point x="60" y="489" type="line"/>
+      <point x="99" y="489" type="line"/>
+      <point x="115" y="507"/>
+      <point x="141" y="519"/>
+      <point x="170" y="519" type="curve" smooth="yes"/>
+      <point x="219" y="519"/>
+      <point x="241" y="478"/>
+      <point x="241" y="434" type="curve" smooth="yes"/>
+      <point x="241" y="383"/>
+      <point x="211" y="327"/>
+      <point x="159" y="327" type="curve" smooth="yes"/>
+      <point x="131" y="327"/>
+      <point x="101" y="344"/>
+      <point x="101" y="371" type="curve" smooth="yes"/>
+      <point x="101" y="394"/>
+      <point x="119" y="397"/>
+      <point x="119" y="422" type="curve" smooth="yes"/>
+      <point x="119" y="444"/>
+      <point x="94" y="457"/>
+      <point x="71" y="457" type="curve" smooth="yes"/>
+      <point x="46" y="457"/>
+      <point x="14" y="441"/>
+      <point x="14" y="392" type="curve" smooth="yes"/>
+      <point x="14" y="342"/>
+      <point x="80" y="299"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>57</integer>
+        <key>verticalShift</key>
+        <integer>305</integer>
+        <key>weight</key>
+        <integer>-180</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04A6" format="2">
+  <advance width="2166"/>
+  <unicode hex="04A6"/>
+  <note>
+uni04A6
+</note>
+  <outline>
+    <contour>
+      <point x="200" y="1462" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="1309" type="line"/>
+      <point x="1071" y="1309" type="line"/>
+      <point x="1071" y="0" type="line"/>
+      <point x="1239" y="0" type="line"/>
+      <point x="1239" y="637" type="line"/>
+      <point x="1281.667" y="647.667"/>
+      <point x="1374" y="653"/>
+      <point x="1438" y="653" type="curve" smooth="yes"/>
+      <point x="1744.667" y="653"/>
+      <point x="1908" y="478.667"/>
+      <point x="1908" y="148" type="curve" smooth="yes"/>
+      <point x="1908" y="-177.333"/>
+      <point x="1775.333" y="-360"/>
+      <point x="1526" y="-360" type="curve" smooth="yes"/>
+      <point x="1432.667" y="-360"/>
+      <point x="1350.667" y="-341.667"/>
+      <point x="1268" y="-311" type="curve"/>
+      <point x="1268" y="-463" type="line"/>
+      <point x="1348" y="-493.667"/>
+      <point x="1421.667" y="-512"/>
+      <point x="1547" y="-512" type="curve" smooth="yes"/>
+      <point x="1761.667" y="-512"/>
+      <point x="1927.333" y="-412.833"/>
+      <point x="2018" y="-217.5" type="curve" smooth="yes"/>
+      <point x="2063.333" y="-119.833"/>
+      <point x="2086" y="1.333"/>
+      <point x="2086" y="146" type="curve" smooth="yes"/>
+      <point x="2086" y="414"/>
+      <point x="1988.167" y="615.167"/>
+      <point x="1799.5" y="722.5" type="curve" smooth="yes"/>
+      <point x="1705.167" y="776.167"/>
+      <point x="1588.667" y="803"/>
+      <point x="1450" y="803" type="curve" smooth="yes"/>
+      <point x="1376.667" y="803"/>
+      <point x="1291" y="798.333"/>
+      <point x="1239" y="789" type="curve"/>
+      <point x="1239" y="1462" type="line"/>
+      <point x="200" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 70 values pushed */
+1 1 3 0 28 1 4 3 16 1 2 4 15 1 1 2 4 76 0 0 0 3 4 0 3 105 0 5 5 7 95 8 1 7 7 41 77 6 1 4 4 42 77 0 2 2 1 97 0 1 1 50 1 78 0 0 0 35 0 35 17 17 18 52 37 38 50 9 7 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

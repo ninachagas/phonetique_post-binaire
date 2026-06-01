@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="703"/>
+  <unicode hex="2195"/>
+  <outline>
+    <component base="leftRightArrow" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="10" yOffset="1006"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 10:51:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>upArrow</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>upArrow</string>
+    </dict>
+  </lib>
+</glyph>

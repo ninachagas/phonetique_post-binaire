@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_e.ss01" format="2">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="80" y="222" type="line"/>
+      <point x="220" y="222" type="line"/>
+      <point x="220" y="725" type="line"/>
+      <point x="146" y="715"/>
+      <point x="84" y="713"/>
+      <point x="10" y="713" type="curve"/>
+      <point x="10" y="679" type="line"/>
+      <point x="21" y="678" type="line" smooth="yes"/>
+      <point x="56" y="675"/>
+      <point x="80" y="667"/>
+      <point x="80" y="596" type="curve" smooth="yes"/>
+    </contour>
+    <component base="e" xOffset="55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,0.5</string>
+    </dict>
+  </lib>
+</glyph>

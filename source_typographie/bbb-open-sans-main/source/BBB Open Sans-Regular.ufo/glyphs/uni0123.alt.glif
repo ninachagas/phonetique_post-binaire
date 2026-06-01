@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0123.alt" format="2">
+  <advance width="1253"/>
+  <note>
+uni0123.alt
+</note>
+  <outline>
+    <component base="g.salt"/>
+    <component base="commaaccentrotate" xOffset="101"/>
+  </outline>
+</glyph>

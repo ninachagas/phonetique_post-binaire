@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e_a.ss07" format="2">
+  <advance width="1225"/>
+  <outline>
+    <component base="e"/>
+    <component base="a-etage" xOffset="608"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-19 17:54:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e_a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e_a</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="714"/>
+  <unicode hex="201D"/>
+  <note>
+quotedblright
+</note>
+  <outline>
+    <contour>
+      <point x="497" y="1462" type="line"/>
+      <point x="477.423" y="1323.002"/>
+      <point x="435.695" y="1126.374"/>
+      <point x="390" y="961" type="curve"/>
+      <point x="515" y="961" type="line"/>
+      <point x="580.333" y="1106.333"/>
+      <point x="652" y="1292"/>
+      <point x="688" y="1440" type="curve"/>
+      <point x="673" y="1462" type="line"/>
+      <point x="497" y="1462" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="1462" type="line"/>
+      <point x="109.395" y="1322.807"/>
+      <point x="71.494" y="1125.645"/>
+      <point x="26" y="961" type="curve"/>
+      <point x="146" y="961" type="line"/>
+      <point x="211.333" y="1106.333"/>
+      <point x="284.333" y="1292"/>
+      <point x="319" y="1440" type="curve"/>
+      <point x="305" y="1462" type="line"/>
+      <point x="129" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 33 values pushed */
+2 1 0 0 1 95 5 3 4 3 1 1 119 0 78 10 10 0 0 10 19 10 19 15 14 0 9 0 9 20 6 14 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

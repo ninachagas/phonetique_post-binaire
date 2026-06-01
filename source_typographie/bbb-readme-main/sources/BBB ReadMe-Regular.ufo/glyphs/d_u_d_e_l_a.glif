@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_u_d_e_l_a" format="2">
+  <advance width="4014"/>
+  <unicode hex="F1730"/>
+  <guideline x="1692" y="-287" angle="0"/>
+  <outline>
+    <contour>
+      <point x="2100" y="-304" type="curve" smooth="yes"/>
+      <point x="2121" y="-311"/>
+      <point x="2150" y="-282"/>
+      <point x="2156" y="-276" type="curve" smooth="yes"/>
+      <point x="2167" y="-265"/>
+      <point x="2190" y="-229"/>
+      <point x="2169" y="-214" type="curve" smooth="yes"/>
+      <point x="2100" y="-165"/>
+      <point x="2098" y="-147"/>
+      <point x="2094" y="6" type="curve" smooth="yes"/>
+      <point x="2090" y="155"/>
+      <point x="2091" y="413"/>
+      <point x="2095" y="656" type="curve" smooth="yes"/>
+      <point x="2095" y="869"/>
+      <point x="2008" y="905"/>
+      <point x="1922" y="905" type="curve" smooth="yes"/>
+      <point x="1853" y="905"/>
+      <point x="1767" y="870"/>
+      <point x="1767" y="818" type="curve" smooth="yes"/>
+      <point x="1767" y="797"/>
+      <point x="1779" y="774"/>
+      <point x="1802" y="774" type="curve" smooth="yes"/>
+      <point x="1830" y="774"/>
+      <point x="1839" y="807"/>
+      <point x="1901" y="807" type="curve" smooth="yes"/>
+      <point x="1986" y="807"/>
+      <point x="2019" y="757"/>
+      <point x="2019" y="576" type="curve" smooth="yes"/>
+      <point x="2019" y="323"/>
+      <point x="2020" y="276"/>
+      <point x="2020" y="244" type="curve" smooth="yes"/>
+      <point x="2020" y="229"/>
+      <point x="2016" y="222"/>
+      <point x="2006" y="222" type="curve" smooth="yes"/>
+      <point x="1998" y="222"/>
+      <point x="1991" y="227"/>
+      <point x="1977" y="242" type="curve" smooth="yes"/>
+      <point x="1942" y="276"/>
+      <point x="1892" y="299"/>
+      <point x="1817" y="299" type="curve" smooth="yes"/>
+      <point x="1655" y="299"/>
+      <point x="1534" y="149"/>
+      <point x="1534" y="-4" type="curve" smooth="yes"/>
+      <point x="1534" y="-194"/>
+      <point x="1658" y="-301"/>
+      <point x="1809" y="-301" type="curve" smooth="yes"/>
+      <point x="1925" y="-301"/>
+      <point x="1976" y="-221"/>
+      <point x="2017" y="-221" type="curve" smooth="yes"/>
+      <point x="2051" y="-221"/>
+      <point x="2077" y="-296"/>
+    </contour>
+    <component base="d" identifier="1BF997CC"/>
+    <component base="u" xOffset="759" identifier="CAE97055"/>
+    <contour>
+      <point x="1817" y="-201" type="curve" smooth="yes"/>
+      <point x="1709" y="-201"/>
+      <point x="1624" y="-120"/>
+      <point x="1624" y="-3" type="curve" smooth="yes"/>
+      <point x="1624" y="133"/>
+      <point x="1705" y="222"/>
+      <point x="1815" y="222" type="curve" smooth="yes"/>
+      <point x="1921" y="222"/>
+      <point x="2018" y="130"/>
+      <point x="2018" y="-5" type="curve" smooth="yes"/>
+      <point x="2018" y="-149"/>
+      <point x="1927" y="-201"/>
+    </contour>
+    <component base="e" xOffset="2228" yOffset="-281" identifier="27D4B875"/>
+    <component base="l" xOffset="3036" yOffset="-281" identifier="EE784E80"/>
+    <component base="a" xOffset="3432" yOffset="-281" identifier="17C667C4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-16 13:02:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=a-40</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17C667C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1BF997CC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>27D4B875</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CAE97055</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EE784E80</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

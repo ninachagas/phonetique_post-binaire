@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed" format="2">
+  <advance width="644"/>
+  <unicode hex="018E"/>
+  <outline>
+    <component base="E" xScale="-1" xOffset="644"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 09:32:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

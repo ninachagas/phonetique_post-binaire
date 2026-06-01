@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_egrave" format="2">
+	<advance width="744"/>
+	<outline>
+		<contour>
+			<point x="188" y="639" type="curve"/>
+			<point x="262" y="520" type="line"/>
+			<point x="284" y="520" type="line"/>
+			<point x="245" y="668" type="line" smooth="yes"/>
+			<point x="234" y="710"/>
+			<point x="218" y="724"/>
+			<point x="202" y="724" type="curve"/>
+			<point x="186" y="724"/>
+			<point x="171" y="712"/>
+			<point x="171" y="688" type="curve"/>
+			<point x="171" y="672"/>
+			<point x="178" y="655"/>
+		</contour>
+		<component base="t_e"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>t_e</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

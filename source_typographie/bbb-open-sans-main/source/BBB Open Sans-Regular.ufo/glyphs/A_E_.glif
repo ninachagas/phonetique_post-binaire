@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1778"/>
+  <unicode hex="00C6"/>
+  <note>
+AE
+</note>
+  <outline>
+    <contour>
+      <point x="1665" y="150" type="line"/>
+      <point x="1071" y="150" type="line"/>
+      <point x="1071" y="691" type="line"/>
+      <point x="1626" y="691" type="line"/>
+      <point x="1626" y="839" type="line"/>
+      <point x="1071" y="839" type="line"/>
+      <point x="1071" y="1312" type="line"/>
+      <point x="1665" y="1312" type="line"/>
+      <point x="1665" y="1462" type="line"/>
+      <point x="685" y="1462" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="396" y="464" type="line"/>
+      <point x="901" y="464" type="line"/>
+      <point x="901" y="0" type="line"/>
+      <point x="1665" y="0" type="line"/>
+      <point x="1665" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="1310" type="line"/>
+      <point x="901" y="1310" type="line"/>
+      <point x="901" y="615" type="line"/>
+      <point x="462" y="615" type="line"/>
+      <point x="786" y="1310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 53 values pushed */
+0 5 0 6 8 5 6 103 0 8 0 1 7 8 1 103 9 1 4 4 3 95 0 3 3 119 77 0 7 7 0 95 2 1 0 0 120 0 78 19 18 17 17 17 17 17 17 17 17 16 10 14 31 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

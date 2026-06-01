@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute_E" format="2">
+  <advance width="976"/>
+  <unicode hex="F1820"/>
+  <outline>
+    <contour>
+      <point x="30" y="38" type="line"/>
+      <point x="30" y="-3" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="622" y="90" type="line"/>
+      <point x="629" y="230" type="line"/>
+      <point x="588" y="230" type="line"/>
+      <point x="573" y="89"/>
+      <point x="514" y="44"/>
+      <point x="393" y="44" type="curve" smooth="yes"/>
+      <point x="370" y="44" type="line" smooth="yes"/>
+      <point x="294" y="44"/>
+      <point x="271" y="56"/>
+      <point x="271" y="107" type="curve" smooth="yes"/>
+      <point x="271" y="352" type="line"/>
+      <point x="303" y="352" type="line" smooth="yes"/>
+      <point x="385" y="352"/>
+      <point x="424" y="317"/>
+      <point x="429" y="216" type="curve"/>
+      <point x="469" y="216" type="line"/>
+      <point x="466" y="374" type="line"/>
+      <point x="469" y="518" type="line"/>
+      <point x="429" y="518" type="line"/>
+      <point x="417" y="416"/>
+      <point x="374" y="396"/>
+      <point x="303" y="396" type="curve" smooth="yes"/>
+      <point x="271" y="396" type="line"/>
+      <point x="271" y="666" type="line"/>
+      <point x="353" y="666" type="line" smooth="yes"/>
+      <point x="494" y="666"/>
+      <point x="547" y="634"/>
+      <point x="566" y="526" type="curve"/>
+      <point x="606" y="526" type="line"/>
+      <point x="598" y="638" type="line"/>
+      <point x="596" y="710" type="line"/>
+      <point x="188" y="710" type="line"/>
+      <point x="30" y="713" type="line"/>
+      <point x="30" y="673" type="line"/>
+      <point x="50" y="671" type="line" smooth="yes"/>
+      <point x="103" y="666"/>
+      <point x="116" y="651"/>
+      <point x="116" y="577" type="curve" smooth="yes"/>
+      <point x="116" y="133" type="line" smooth="yes"/>
+      <point x="116" y="59"/>
+      <point x="103" y="45"/>
+      <point x="50" y="40" type="curve" smooth="yes"/>
+    </contour>
+    <component base="acutecomb.case" xOffset="288" identifier="6CA0CD5C"/>
+    <contour>
+      <point x="337" y="396" type="line"/>
+      <point x="337" y="352" type="line"/>
+      <point x="630" y="352" type="line" smooth="yes"/>
+      <point x="712" y="352"/>
+      <point x="751" y="317"/>
+      <point x="756" y="216" type="curve"/>
+      <point x="796" y="216" type="line"/>
+      <point x="793" y="374" type="line"/>
+      <point x="796" y="518" type="line"/>
+      <point x="756" y="518" type="line"/>
+      <point x="744" y="416"/>
+      <point x="701" y="396"/>
+      <point x="630" y="396" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="416" y="710" type="line"/>
+      <point x="416" y="666" type="line"/>
+      <point x="680" y="666" type="line" smooth="yes"/>
+      <point x="821" y="666"/>
+      <point x="874" y="634"/>
+      <point x="893" y="526" type="curve"/>
+      <point x="933" y="526" type="line"/>
+      <point x="925" y="638" type="line"/>
+      <point x="923" y="713" type="line"/>
+      <point x="783" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="45" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="949" y="90" type="line"/>
+      <point x="956" y="230" type="line"/>
+      <point x="915" y="230" type="line"/>
+      <point x="900" y="89"/>
+      <point x="841" y="43"/>
+      <point x="720" y="44" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Eacute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6CA0CD5C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

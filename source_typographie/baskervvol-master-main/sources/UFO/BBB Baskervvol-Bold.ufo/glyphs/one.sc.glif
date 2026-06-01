@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sc" format="2">
+  <advance width="312" height="0"/>
+  <outline>
+    <contour>
+      <point x="30" y="-2" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="297" y="-2" type="line"/>
+      <point x="297" y="32" type="line"/>
+      <point x="264" y="34" type="line" smooth="yes"/>
+      <point x="232" y="36"/>
+      <point x="229" y="54"/>
+      <point x="229" y="84" type="curve" smooth="yes"/>
+      <point x="229" y="355" type="line"/>
+      <point x="229" y="462" type="line"/>
+      <point x="200" y="462" type="line"/>
+      <point x="148" y="436"/>
+      <point x="96" y="425"/>
+      <point x="31" y="423" type="curve"/>
+      <point x="31" y="388" type="line"/>
+      <point x="63" y="386" type="line" smooth="yes"/>
+      <point x="89" y="384"/>
+      <point x="98" y="376"/>
+      <point x="98" y="317" type="curve" smooth="yes"/>
+      <point x="98" y="84" type="line" smooth="yes"/>
+      <point x="98" y="53"/>
+      <point x="93" y="36"/>
+      <point x="63" y="34" type="curve" smooth="yes"/>
+      <point x="30" y="32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>57</integer>
+        <key>verticalShift</key>
+        <integer>305</integer>
+        <key>weight</key>
+        <integer>-180</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.lf</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="278" y="-11" type="curve" smooth="yes"/>
+      <point x="430" y="-11"/>
+      <point x="521" y="92"/>
+      <point x="521" y="216" type="curve" smooth="yes"/>
+      <point x="521" y="367"/>
+      <point x="407" y="429"/>
+      <point x="321" y="429" type="curve" smooth="yes"/>
+      <point x="245" y="429"/>
+      <point x="188" y="392"/>
+      <point x="153" y="312" type="curve"/>
+      <point x="192" y="332" type="line"/>
+      <point x="192" y="544"/>
+      <point x="236" y="688"/>
+      <point x="321" y="688" type="curve" smooth="yes"/>
+      <point x="349" y="688"/>
+      <point x="373" y="673"/>
+      <point x="373" y="647" type="curve" smooth="yes"/>
+      <point x="373" y="620"/>
+      <point x="352" y="615"/>
+      <point x="352" y="580" type="curve" smooth="yes"/>
+      <point x="352" y="546"/>
+      <point x="384" y="527"/>
+      <point x="418" y="527" type="curve" smooth="yes"/>
+      <point x="455" y="527"/>
+      <point x="496" y="553"/>
+      <point x="496" y="613" type="curve" smooth="yes"/>
+      <point x="496" y="681"/>
+      <point x="416" y="724"/>
+      <point x="327" y="724" type="curve" smooth="yes"/>
+      <point x="126" y="724"/>
+      <point x="39" y="533"/>
+      <point x="39" y="319" type="curve" smooth="yes"/>
+      <point x="39" y="133"/>
+      <point x="91" y="-11"/>
+    </contour>
+    <contour>
+      <point x="277" y="29" type="curve" smooth="yes"/>
+      <point x="223" y="29"/>
+      <point x="195" y="107"/>
+      <point x="192" y="212" type="curve" smooth="yes"/>
+      <point x="189" y="317"/>
+      <point x="234" y="378"/>
+      <point x="281" y="378" type="curve" smooth="yes"/>
+      <point x="321" y="378"/>
+      <point x="364" y="344"/>
+      <point x="367" y="213" type="curve" smooth="yes"/>
+      <point x="370" y="82"/>
+      <point x="324" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>80</integer>
+        <key>monoWidth</key>
+        <integer>540</integer>
+        <key>useSpacing</key>
+        <integer>20</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>six.lf</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

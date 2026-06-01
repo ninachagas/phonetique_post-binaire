@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04C9" format="2">
+  <advance width="1537"/>
+  <unicode hex="04C9"/>
+  <note>
+uni04C9
+</note>
+  <outline>
+    <contour>
+      <point x="1308" y="1462" type="line"/>
+      <point x="1140" y="1462" type="line"/>
+      <point x="1140" y="839" type="line"/>
+      <point x="370" y="839" type="line"/>
+      <point x="370" y="1462" type="line"/>
+      <point x="200" y="1462" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="689" type="line"/>
+      <point x="1140" y="689" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="1316" y="0" type="line"/>
+      <point x="1157" y="-382" type="line"/>
+      <point x="1351" y="-382" type="line"/>
+      <point x="1504" y="152" type="line"/>
+      <point x="1308" y="152" type="line"/>
+      <point x="1308" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 42 values pushed */
+0 1 2 1 134 0 6 0 3 0 6 3 103 7 1 5 5 41 77 0 0 0 2 96 4 1 2 2 42 2 78 17 17 17 17 17 17 17 16 8 7 30 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

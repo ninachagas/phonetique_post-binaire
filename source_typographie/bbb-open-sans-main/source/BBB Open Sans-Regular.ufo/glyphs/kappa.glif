@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kappa" format="2">
+  <advance width="1076"/>
+  <unicode hex="03BA"/>
+  <note>
+kappa
+</note>
+  <outline>
+    <component base="kgreenlandic"/>
+  </outline>
+</glyph>

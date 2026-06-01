@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sc" format="2">
+  <advance width="481"/>
+  <guideline x="500" y="314" angle="0"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="180" y="228" name="center"/>
+  <anchor x="170" y="455" name="top"/>
+  <anchor x="356" y="179" name="topright"/>
+  <outline>
+    <contour>
+      <point x="19" y="-3" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="454" y="-2" type="line"/>
+      <point x="461" y="163" type="line"/>
+      <point x="427" y="163" type="line"/>
+      <point x="400" y="80"/>
+      <point x="372" y="35"/>
+      <point x="300" y="35" type="curve" smooth="yes"/>
+      <point x="291" y="35" type="line" smooth="yes"/>
+      <point x="236" y="35"/>
+      <point x="228" y="66"/>
+      <point x="228" y="119" type="curve" smooth="yes"/>
+      <point x="228" y="334" type="line" smooth="yes"/>
+      <point x="228" y="415"/>
+      <point x="236" y="419"/>
+      <point x="270" y="423" type="curve" smooth="yes"/>
+      <point x="296" y="425" type="line"/>
+      <point x="296" y="458" type="line"/>
+      <point x="157" y="455" type="line"/>
+      <point x="19" y="458" type="line"/>
+      <point x="19" y="425" type="line"/>
+      <point x="35" y="423" type="line" smooth="yes"/>
+      <point x="77" y="418"/>
+      <point x="87" y="415"/>
+      <point x="87" y="334" type="curve" smooth="yes"/>
+      <point x="87" y="121" type="line" smooth="yes"/>
+      <point x="87" y="40"/>
+      <point x="77" y="38"/>
+      <point x="35" y="33" type="curve" smooth="yes"/>
+      <point x="19" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i.sc</string>
+    </dict>
+  </lib>
+</glyph>

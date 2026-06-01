@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="1036"/>
+  <unicode hex="0023"/>
+  <outline>
+    <component base="demi-hashtag" xScale="-1" yScale="-1" xOffset="1012" yOffset="869" identifier="7A6B0144"/>
+    <component base="demi-hashtag" xOffset="24" yOffset="-5" identifier="A385ECA0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 10:51:29 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7A6B0144</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A385ECA0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

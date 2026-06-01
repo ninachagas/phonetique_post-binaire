@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302.sc" format="2">
+	<advance width="0"/>
+	<note>
+		uni0302.sc
+  </note>
+	<outline>
+		<contour>
+			<point x="-152" y="858" type="line"/>
+			<point x="-74" y="760" type="line"/>
+			<point x="-50" y="760" type="line"/>
+			<point x="-144" y="950" type="line"/>
+			<point x="-166" y="950" type="line"/>
+			<point x="-260" y="760" type="line"/>
+			<point x="-236" y="760" type="line"/>
+			<point x="-158" y="858" type="line"/>
+		</contour>
+	</outline>
+</glyph>

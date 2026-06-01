@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0418" format="2">
+  <advance width="1556"/>
+  <unicode hex="0418"/>
+  <note>
+uni0418
+</note>
+  <outline>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="1205" y="1232" type="line"/>
+      <point x="1214" y="1232" type="line"/>
+      <point x="1209.824" y="1167.268"/>
+      <point x="1198" y="991.75"/>
+      <point x="1198" y="835" type="curve" smooth="yes"/>
+      <point x="1198" y="0" type="line"/>
+      <point x="1357" y="0" type="line"/>
+      <point x="1357" y="1462" type="line"/>
+      <point x="1170" y="1462" type="line"/>
+      <point x="356" y="236" type="line"/>
+      <point x="348" y="236" type="line"/>
+      <point x="354.083" y="300.89"/>
+      <point x="361" y="469.29"/>
+      <point x="361" y="617" type="curve" smooth="yes"/>
+      <point x="361" y="1462" type="line"/>
+      <point x="202" y="1462" type="line"/>
+      <point x="202" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 26 values pushed */
+16 1 2 0 1 76 1 1 0 0 41 77 3 1 2 2 42 2 78 23 17 23 16 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

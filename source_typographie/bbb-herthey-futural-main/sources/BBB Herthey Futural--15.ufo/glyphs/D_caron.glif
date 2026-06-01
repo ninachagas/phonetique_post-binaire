@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+	<advance width="732"/>
+	<unicode hex="010E"/>
+	<note>
+		Dcaron
+	</note>
+	<outline>
+		<component base="D"/>
+		<component base="caroncomb" xOffset="108" yOffset="251"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>D</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>D</string>
+		</dict>
+	</lib>
+</glyph>

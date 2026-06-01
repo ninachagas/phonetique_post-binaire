@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bdotaccent" format="2">
+	<advance width="631"/>
+	<unicode hex="1E03"/>
+	<note>
+		uni1E03
+	</note>
+	<outline>
+		<component base="b"/>
+		<component base="dotaccentcomb" xOffset="202"/>
+	</outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <advance width="450"/>
+  <anchor x="185" y="800" name="_top"/>
+  <outline>
+    <component base="quotedbl" xScale="1.284" yScale="0.567" yxScale="0.2452" xOffset="-220" yOffset="559" identifier="1D3980FC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-16 13:02:14 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1D3980FC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

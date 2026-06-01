@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent2" format="2">
+  <advance width="1024"/>
+  <note>
+commaaccent2
+</note>
+  <outline>
+    <contour>
+      <point x="457" y="-125" type="line"/>
+      <point x="446.695" y="-215.687"/>
+      <point x="414.545" y="-332.564"/>
+      <point x="372" y="-429" type="curve"/>
+      <point x="372" y="-453" type="line"/>
+      <point x="463" y="-453" type="line"/>
+      <point x="534.422" y="-363.722"/>
+      <point x="594.94" y="-247.536"/>
+      <point x="622" y="-142" type="curve"/>
+      <point x="622" y="-125" type="line"/>
+      <point x="457" y="-125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+7 1 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+27 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 0 1 133 0 0 0 124 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 10 values pushed */
+2 1 1 0 1 133 0 0 0 118 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+0 0 0 11 0 11 21 3 14 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

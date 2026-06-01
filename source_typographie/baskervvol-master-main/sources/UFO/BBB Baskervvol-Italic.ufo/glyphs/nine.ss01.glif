@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.ss01" format="2">
+  <advance width="506"/>
+  <outline>
+    <component base="six" xScale="-1" yScale="-1" xOffset="508" yOffset="446" identifier="B7DB1D5E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B7DB1D5E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

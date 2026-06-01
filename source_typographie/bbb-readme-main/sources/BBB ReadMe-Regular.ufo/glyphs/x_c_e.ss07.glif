@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x_c_e.ss07" format="2">
+  <advance width="1837"/>
+  <outline>
+    <component base="x"/>
+    <component base="c-etage" xOffset="681"/>
+    <component base="enb.ss07" xOffset="1274" identifier="A42BBBD7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-16 13:02:14 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A42BBBD7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="568"/>
+  <unicode hex="0060"/>
+  <note>
+grave
+</note>
+  <outline>
+    <contour>
+      <point x="82" y="1569" type="line"/>
+      <point x="82" y="1549" type="line"/>
+      <point x="131.091" y="1474.382"/>
+      <point x="259.569" y="1333.518"/>
+      <point x="374" y="1241" type="curve"/>
+      <point x="487" y="1241" type="line"/>
+      <point x="487" y="1265" type="line"/>
+      <point x="416.795" y="1345.842"/>
+      <point x="330.252" y="1472.684"/>
+      <point x="280" y="1569" type="curve"/>
+      <point x="82" y="1569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+10 4 2 0 1 1 76 2 1 1 0 1 133 0 0 0 118 0 0 0 11 0 11 21 3 14 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

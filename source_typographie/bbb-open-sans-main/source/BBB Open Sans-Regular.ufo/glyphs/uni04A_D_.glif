@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AD" format="2">
+  <advance width="963"/>
+  <unicode hex="04AD"/>
+  <note>
+uni04AD
+</note>
+  <outline>
+    <contour>
+      <point x="41" y="1096" type="line"/>
+      <point x="41" y="957" type="line"/>
+      <point x="397" y="957" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="-377" type="line"/>
+      <point x="720" y="-377" type="line"/>
+      <point x="720" y="139" type="line"/>
+      <point x="561" y="139" type="line"/>
+      <point x="561" y="957" type="line"/>
+      <point x="920" y="957" type="line"/>
+      <point x="920" y="1096" type="line"/>
+      <point x="41" y="1096" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 39 values pushed */
+0 1 0 2 1 2 99 4 1 0 0 5 95 6 1 5 5 43 77 0 3 3 42 3 78 0 0 0 11 0 11 17 17 17 17 17 7 7 27 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

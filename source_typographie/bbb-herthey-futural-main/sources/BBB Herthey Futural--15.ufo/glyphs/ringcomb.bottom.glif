@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.bottom" format="2">
+	<advance width="277"/>
+	<anchor x="135" y="0" name="_bottom"/>
+	<outline>
+		<component base="ringcomb" yOffset="-845"/>
+	</outline>
+</glyph>

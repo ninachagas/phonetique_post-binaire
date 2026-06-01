@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hdotaccent" format="2">
+	<advance width="625"/>
+	<unicode hex="1E23"/>
+	<note>
+		uni1E23
+	</note>
+	<outline>
+		<component base="h"/>
+		<component base="dotaccentcomb" xOffset="232" yOffset="97"/>
+	</outline>
+</glyph>

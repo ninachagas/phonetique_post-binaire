@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncedilla" format="2">
+	<advance width="762"/>
+	<unicode hex="0145"/>
+	<note>
+		uni0145
+	</note>
+	<outline>
+		<component base="N"/>
+		<component base="cedillacomb" xOffset="218"/>
+	</outline>
+</glyph>

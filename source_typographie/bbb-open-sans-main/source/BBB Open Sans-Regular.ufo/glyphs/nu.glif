@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="1108"/>
+  <unicode hex="03BD"/>
+  <note>
+nu
+</note>
+  <outline>
+    <contour>
+      <point x="409" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="811" y="222.667"/>
+      <point x="932.833" y="443.833"/>
+      <point x="985.5" y="692.5" type="curve" smooth="yes"/>
+      <point x="1011.833" y="816.833"/>
+      <point x="1025" y="951.333"/>
+      <point x="1025" y="1096" type="curve"/>
+      <point x="861" y="1096" type="line"/>
+      <point x="861" y="692"/>
+      <point x="776.667" y="396.667"/>
+      <point x="522" y="142" type="curve"/>
+      <point x="514" y="142" type="line"/>
+      <point x="496.453" y="216.088"/>
+      <point x="447.276" y="358.167"/>
+      <point x="406" y="465" type="curve" smooth="yes"/>
+      <point x="172" y="1096" type="line"/>
+      <point x="0" y="1096" type="line"/>
+      <point x="409" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 24 values pushed */
+6 1 2 0 1 76 1 1 0 0 58 77 0 2 2 56 2 78 20 25 16 3 8 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

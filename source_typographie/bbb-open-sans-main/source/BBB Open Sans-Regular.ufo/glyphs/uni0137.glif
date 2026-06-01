@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0137" format="2">
+  <advance width="1076"/>
+  <unicode hex="0137"/>
+  <note>
+uni0137
+</note>
+  <outline>
+    <component base="k"/>
+    <component base="commaaccent2" xOffset="43"/>
+  </outline>
+</glyph>

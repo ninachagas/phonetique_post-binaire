@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="276"/>
+  <unicode hex="013A"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="30" yOffset="274" identifier="00EF3141"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>00EF3141</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <advance width="481"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="periodcentered.loclCAT.sc" xOffset="481" identifier="5D525C04"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D525C04</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

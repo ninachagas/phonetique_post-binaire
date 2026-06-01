@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresismacron" format="2">
+	<advance width="617"/>
+	<unicode hex="022B"/>
+	<note>
+		uni022B
+	</note>
+	<outline>
+		<component base="o"/>
+		<component base="dieresiscomb.macroncomb" xOffset="120"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
+		</dict>
+	</lib>
+</glyph>

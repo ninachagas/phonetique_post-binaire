@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B5" format="2">
+  <advance width="1266"/>
+  <unicode hex="00B5"/>
+  <note>
+uni00B5
+</note>
+  <outline>
+    <contour>
+      <point x="925" y="1096" type="line"/>
+      <point x="925" y="519" type="line" smooth="yes"/>
+      <point x="925" y="261.667"/>
+      <point x="844.667" y="118"/>
+      <point x="598" y="118" type="curve" smooth="yes"/>
+      <point x="426.667" y="118"/>
+      <point x="341" y="208"/>
+      <point x="341" y="388" type="curve" smooth="yes"/>
+      <point x="341" y="1096" type="line"/>
+      <point x="175" y="1096" type="line"/>
+      <point x="175" y="-492" type="line"/>
+      <point x="341" y="-492" type="line"/>
+      <point x="341" y="-157" type="line" smooth="yes"/>
+      <point x="341" y="-47.667"/>
+      <point x="338" y="31.333"/>
+      <point x="332" y="80" type="curve"/>
+      <point x="340" y="80" type="line"/>
+      <point x="393.333" y="18.667"/>
+      <point x="472.333" y="-20"/>
+      <point x="587" y="-20" type="curve" smooth="yes"/>
+      <point x="748.333" y="-20"/>
+      <point x="853" y="42.667"/>
+      <point x="921" y="152" type="curve"/>
+      <point x="930" y="152" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="1091" y="0" type="line"/>
+      <point x="1091" y="1096" type="line"/>
+      <point x="925" y="1096" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 10 values pushed */
+3 1 4 3 10 1 0 4 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+6 5 2 3 3 122 77 0 4 4 0 97 1 1 0 0 120 77 0 2 2 124 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 28 values pushed */
+6 5 2 3 3 122 77 0 0 0 120 77 0 4 4 1 97 0 1 1 126 77 0 2 2 124 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 24 0 24 34 17 22 36 17 7 14 27 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-10 13:29:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

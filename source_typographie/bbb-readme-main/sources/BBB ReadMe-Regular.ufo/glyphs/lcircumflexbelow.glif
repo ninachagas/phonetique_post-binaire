@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow" format="2">
+  <advance width="396"/>
+  <unicode hex="1E3D"/>
+  <outline>
+    <component base="l"/>
+    <component base="circumflexbelowcomb" xOffset="-65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 09:22:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

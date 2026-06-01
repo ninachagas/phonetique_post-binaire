@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.subs" format="2">
+  <advance width="381"/>
+  <outline>
+    <component base="eight.sups" yOffset="-577"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eight.sups</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eight.sups</string>
+    </dict>
+  </lib>
+</glyph>

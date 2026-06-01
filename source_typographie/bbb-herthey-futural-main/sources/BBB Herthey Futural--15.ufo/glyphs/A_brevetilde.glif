@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevetilde" format="2">
+	<advance width="714"/>
+	<unicode hex="1EB4"/>
+	<guideline x="160" y="236" angle="0"/>
+	<note>
+		uni1EB4
+	</note>
+	<outline>
+		<component base="A"/>
+		<component base="brevecomb_tildecomb" xOffset="160" yOffset="236"/>
+	</outline>
+</glyph>

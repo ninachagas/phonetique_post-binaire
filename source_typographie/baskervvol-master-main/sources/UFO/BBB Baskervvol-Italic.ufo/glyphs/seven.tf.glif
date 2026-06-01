@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="265" y="167"/>
+      <point x="378" y="329"/>
+      <point x="553" y="533" type="curve" smooth="yes"/>
+      <point x="686" y="688" type="line"/>
+      <point x="695" y="710" type="line"/>
+      <point x="242" y="710" type="line"/>
+      <point x="228" y="675" type="line"/>
+      <point x="176" y="527" type="line"/>
+      <point x="204" y="527" type="line"/>
+      <point x="213" y="547" type="line" smooth="yes"/>
+      <point x="248" y="625"/>
+      <point x="261" y="640"/>
+      <point x="360" y="640" type="curve" smooth="yes"/>
+      <point x="627" y="640" type="line"/>
+      <point x="630" y="664" type="line"/>
+      <point x="29" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>560</integer>
+        <key>useSpacing</key>
+        <integer>50</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>seven.lf</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

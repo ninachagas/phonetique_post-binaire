@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="177" y="-14" type="curve" smooth="yes"/>
+      <point x="327" y="-14"/>
+      <point x="456" y="72"/>
+      <point x="498" y="202" type="curve" smooth="yes"/>
+      <point x="534" y="313"/>
+      <point x="511" y="446"/>
+      <point x="349" y="446" type="curve" smooth="yes"/>
+      <point x="294" y="446"/>
+      <point x="236" y="426"/>
+      <point x="190" y="383" type="curve"/>
+      <point x="203" y="361" type="line"/>
+      <point x="304" y="628" type="line"/>
+      <point x="448" y="628" type="line" smooth="yes"/>
+      <point x="530" y="628"/>
+      <point x="605" y="628"/>
+      <point x="641" y="715" type="curve"/>
+      <point x="637" y="717" type="line"/>
+      <point x="589" y="711"/>
+      <point x="549" y="710"/>
+      <point x="514" y="710" type="curve"/>
+      <point x="307" y="710" type="line"/>
+      <point x="170" y="355" type="line"/>
+      <point x="196" y="355" type="line"/>
+      <point x="221" y="381"/>
+      <point x="265" y="412"/>
+      <point x="322" y="412" type="curve" smooth="yes"/>
+      <point x="432" y="412"/>
+      <point x="433" y="290"/>
+      <point x="405" y="205" type="curve" smooth="yes"/>
+      <point x="369" y="95"/>
+      <point x="272" y="15"/>
+      <point x="168" y="15" type="curve" smooth="yes"/>
+      <point x="115" y="15"/>
+      <point x="85" y="35"/>
+      <point x="85" y="55" type="curve" smooth="yes"/>
+      <point x="85" y="86"/>
+      <point x="115" y="79"/>
+      <point x="115" y="120" type="curve" smooth="yes"/>
+      <point x="115" y="135"/>
+      <point x="100" y="158"/>
+      <point x="66" y="158" type="curve" smooth="yes"/>
+      <point x="44" y="158"/>
+      <point x="11" y="142"/>
+      <point x="13" y="97" type="curve" smooth="yes"/>
+      <point x="16" y="29"/>
+      <point x="83" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>560</integer>
+        <key>useSpacing</key>
+        <integer>50</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>five.lf</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

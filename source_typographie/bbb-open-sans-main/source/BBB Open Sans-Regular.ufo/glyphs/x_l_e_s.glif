@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x_l_e_s" format="2">
+  <advance width="3792"/>
+  <unicode hex="F5760"/>
+  <outline>
+    <contour>
+      <point x="1569" y="1252" type="line"/>
+      <point x="1403" y="1252" type="line"/>
+      <point x="1402" y="140" type="line"/>
+      <point x="1402" y="-211"/>
+      <point x="1156" y="-354"/>
+      <point x="872" y="-354" type="curve" smooth="yes"/>
+      <point x="597" y="-354"/>
+      <point x="326" y="-134"/>
+      <point x="326" y="238" type="curve" smooth="yes"/>
+      <point x="326" y="561"/>
+      <point x="560" y="724"/>
+      <point x="696" y="925" type="curve"/>
+      <point x="626" y="1047" type="line"/>
+      <point x="382" y="767"/>
+      <point x="163" y="547"/>
+      <point x="163" y="240" type="curve" smooth="yes"/>
+      <point x="163" y="-225"/>
+      <point x="489" y="-501"/>
+      <point x="872" y="-501" type="curve" smooth="yes"/>
+      <point x="1378" y="-501"/>
+      <point x="1567" y="-183"/>
+      <point x="1568" y="136" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2278" y="1124" type="curve" smooth="yes"/>
+      <point x="2082" y="1124"/>
+      <point x="1934" y="1027"/>
+      <point x="1855" y="855" type="curve" smooth="yes"/>
+      <point x="1815" y="768"/>
+      <point x="1795" y="666"/>
+      <point x="1795" y="548" type="curve" smooth="yes"/>
+      <point x="1795" y="187"/>
+      <point x="2002" y="-12"/>
+      <point x="2318" y="-12" type="curve" smooth="yes"/>
+      <point x="2466" y="-12"/>
+      <point x="2564" y="10"/>
+      <point x="2675" y="59" type="curve"/>
+      <point x="2675" y="205" type="line"/>
+      <point x="2560" y="156"/>
+      <point x="2464" y="130"/>
+      <point x="2325" y="130" type="curve" smooth="yes"/>
+      <point x="2100" y="130"/>
+      <point x="1971" y="268"/>
+      <point x="1967" y="525" type="curve"/>
+      <point x="2724" y="525" type="line"/>
+      <point x="2724" y="628" type="line" smooth="yes"/>
+      <point x="2724" y="827"/>
+      <point x="2651" y="979"/>
+      <point x="2518" y="1062" type="curve" smooth="yes"/>
+      <point x="2451" y="1103"/>
+      <point x="2371" y="1124"/>
+    </contour>
+    <contour>
+      <point x="1970" y="658" type="line"/>
+      <point x="1990" y="866"/>
+      <point x="2099" y="988"/>
+      <point x="2276" y="988" type="curve" smooth="yes"/>
+      <point x="2463" y="988"/>
+      <point x="2549" y="854"/>
+      <point x="2550" y="658" type="curve"/>
+    </contour>
+    <contour>
+      <point x="3700" y="308" type="curve" smooth="yes"/>
+      <point x="3700" y="428"/>
+      <point x="3644" y="500"/>
+      <point x="3544" y="554" type="curve" smooth="yes"/>
+      <point x="3494" y="581"/>
+      <point x="3435" y="607"/>
+      <point x="3366" y="632" type="curve" smooth="yes"/>
+      <point x="3229" y="684"/>
+      <point x="3147" y="718"/>
+      <point x="3109" y="762" type="curve" smooth="yes"/>
+      <point x="3090" y="784"/>
+      <point x="3080" y="812"/>
+      <point x="3080" y="846" type="curve" smooth="yes"/>
+      <point x="3080" y="934"/>
+      <point x="3165" y="988"/>
+      <point x="3318" y="988" type="curve" smooth="yes"/>
+      <point x="3425" y="988"/>
+      <point x="3529" y="958"/>
+      <point x="3620" y="919" type="curve"/>
+      <point x="3676" y="1052" type="line"/>
+      <point x="3576" y="1096"/>
+      <point x="3461" y="1124"/>
+      <point x="3329" y="1124" type="curve" smooth="yes"/>
+      <point x="3085" y="1124"/>
+      <point x="2921" y="1021"/>
+      <point x="2921" y="836" type="curve" smooth="yes"/>
+      <point x="2921" y="715"/>
+      <point x="2979" y="644"/>
+      <point x="3081" y="592" type="curve" smooth="yes"/>
+      <point x="3132" y="565"/>
+      <point x="3192" y="539"/>
+      <point x="3262" y="512" type="curve" smooth="yes"/>
+      <point x="3367" y="473"/>
+      <point x="3440" y="438"/>
+      <point x="3480" y="408" type="curve" smooth="yes"/>
+      <point x="3519" y="377"/>
+      <point x="3539" y="339"/>
+      <point x="3539" y="294" type="curve" smooth="yes"/>
+      <point x="3539" y="189"/>
+      <point x="3458" y="123"/>
+      <point x="3269" y="123" type="curve" smooth="yes"/>
+      <point x="3140" y="123"/>
+      <point x="3008" y="166"/>
+      <point x="2919" y="210" type="curve"/>
+      <point x="2919" y="57" type="line"/>
+      <point x="3003" y="13"/>
+      <point x="3112" y="-12"/>
+      <point x="3265" y="-12" type="curve" smooth="yes"/>
+      <point x="3534" y="-12"/>
+      <point x="3700" y="99"/>
+    </contour>
+    <contour>
+      <point x="2211" y="1122" type="line"/>
+      <point x="2264" y="1195"/>
+      <point x="2293" y="1279"/>
+      <point x="2300" y="1378" type="curve" smooth="yes"/>
+      <point x="2317" y="1634"/>
+      <point x="2109" y="1817"/>
+      <point x="1858" y="1817" type="curve" smooth="yes"/>
+      <point x="1486" y="1817"/>
+      <point x="1403" y="1492"/>
+      <point x="1403" y="1252" type="curve"/>
+      <point x="1568" y="1207" type="line"/>
+      <point x="1568" y="1506"/>
+      <point x="1645" y="1666"/>
+      <point x="1865" y="1675" type="curve" smooth="yes"/>
+      <point x="2041" y="1682"/>
+      <point x="2148" y="1551"/>
+      <point x="2148" y="1426" type="curve" smooth="yes"/>
+      <point x="2148" y="1175"/>
+      <point x="1994" y="1062"/>
+      <point x="1936" y="979" type="curve"/>
+      <point x="2105" y="1034" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="1006" type="line"/>
+      <point x="684" y="892" type="line"/>
+      <point x="991" y="445" type="line"/>
+      <point x="1181" y="445" type="line"/>
+      <point x="781" y="1006" type="line"/>
+      <point x="1171" y="1556" type="line"/>
+      <point x="983" y="1556" type="line"/>
+      <point x="684" y="1119" type="line"/>
+      <point x="385" y="1556" type="line"/>
+      <point x="195" y="1556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-21 17:13:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

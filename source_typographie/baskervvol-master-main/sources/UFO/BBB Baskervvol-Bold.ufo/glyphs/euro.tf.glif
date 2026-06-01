@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.tf" format="2">
+  <advance width="560"/>
+  <guideline x="544" y="128" angle="90"/>
+  <outline>
+    <contour>
+      <point x="336" y="-11" type="curve" smooth="yes"/>
+      <point x="432" y="-11"/>
+      <point x="518" y="67"/>
+      <point x="532" y="210" type="curve"/>
+      <point x="492" y="217" type="line"/>
+      <point x="484" y="110"/>
+      <point x="423" y="49"/>
+      <point x="360" y="49" type="curve" smooth="yes"/>
+      <point x="269" y="49"/>
+      <point x="243" y="176"/>
+      <point x="243" y="355" type="curve" smooth="yes"/>
+      <point x="243" y="530"/>
+      <point x="263" y="674"/>
+      <point x="369" y="674" type="curve" smooth="yes"/>
+      <point x="432" y="674"/>
+      <point x="473" y="591"/>
+      <point x="491" y="466" type="curve"/>
+      <point x="524" y="466" type="line"/>
+      <point x="523" y="593" type="line"/>
+      <point x="524" y="710" type="line"/>
+      <point x="492" y="710" type="line"/>
+      <point x="488" y="688"/>
+      <point x="483" y="680"/>
+      <point x="474" y="680" type="curve" smooth="yes"/>
+      <point x="468" y="680"/>
+      <point x="458" y="685"/>
+      <point x="446" y="693" type="curve" smooth="yes"/>
+      <point x="431" y="703"/>
+      <point x="401" y="724"/>
+      <point x="347" y="724" type="curve" smooth="yes"/>
+      <point x="216" y="724"/>
+      <point x="101" y="566"/>
+      <point x="101" y="355" type="curve" smooth="yes"/>
+      <point x="101" y="143"/>
+      <point x="200" y="-11"/>
+    </contour>
+    <contour>
+      <point x="32" y="259" type="line"/>
+      <point x="133" y="259" type="line"/>
+      <point x="141" y="309" type="line"/>
+      <point x="55" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="377" type="line"/>
+      <point x="136" y="377" type="line"/>
+      <point x="142" y="427" type="line"/>
+      <point x="68" y="427" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="259" type="line"/>
+      <point x="405" y="259" type="line"/>
+      <point x="422" y="309" type="line"/>
+      <point x="193" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="377" type="line"/>
+      <point x="431" y="377" type="line"/>
+      <point x="448" y="427" type="line"/>
+      <point x="193" y="427" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>540</integer>
+        <key>useSpacing</key>
+        <integer>20</integer>
+      </dict>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>RMXScaler</key>
+        <dict>
+          <key>source</key>
+          <string>euro</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

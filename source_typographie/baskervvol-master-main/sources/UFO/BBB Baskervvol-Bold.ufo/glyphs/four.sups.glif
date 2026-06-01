@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sups" format="2">
+  <advance width="424"/>
+  <outline>
+    <contour>
+      <point x="138" y="303" type="line"/>
+      <point x="270" y="305" type="line"/>
+      <point x="392" y="303" type="line"/>
+      <point x="392" y="333" type="line"/>
+      <point x="363" y="335" type="line" smooth="yes"/>
+      <point x="334" y="337"/>
+      <point x="328" y="349"/>
+      <point x="328" y="378" type="curve" smooth="yes"/>
+      <point x="328" y="394" type="line"/>
+      <point x="385" y="394" type="line"/>
+      <point x="385" y="427" type="line"/>
+      <point x="328" y="427" type="line"/>
+      <point x="328" y="533" type="line"/>
+      <point x="304" y="533" type="line"/>
+      <point x="284" y="515"/>
+      <point x="248" y="502"/>
+      <point x="217" y="504" type="curve"/>
+      <point x="217" y="427" type="line"/>
+      <point x="74" y="427" type="line"/>
+      <point x="347" y="686" type="line"/>
+      <point x="347" y="710" type="line"/>
+      <point x="200" y="710" type="line"/>
+      <point x="155" y="616"/>
+      <point x="108" y="532"/>
+      <point x="51" y="453" type="curve" smooth="yes"/>
+      <point x="25" y="417" type="line"/>
+      <point x="25" y="394" type="line"/>
+      <point x="217" y="394" type="line"/>
+      <point x="217" y="378" type="line" smooth="yes"/>
+      <point x="217" y="347"/>
+      <point x="210" y="336"/>
+      <point x="186" y="335" type="curve" smooth="yes"/>
+      <point x="138" y="333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>57</integer>
+        <key>verticalShift</key>
+        <integer>305</integer>
+        <key>weight</key>
+        <integer>-180</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

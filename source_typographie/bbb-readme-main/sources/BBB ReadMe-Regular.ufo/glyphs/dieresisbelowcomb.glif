@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <advance width="504"/>
+  <unicode hex="0324"/>
+  <anchor x="252" y="0" name="_bottom"/>
+  <outline>
+    <component base="dieresiscomb" yOffset="-962"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-10 09:22:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

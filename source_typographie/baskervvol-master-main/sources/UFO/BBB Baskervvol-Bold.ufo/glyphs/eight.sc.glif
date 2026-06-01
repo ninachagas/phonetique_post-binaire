@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.sc" format="2">
+  <advance width="467" height="0"/>
+  <outline>
+    <contour>
+      <point x="233" y="-10" type="curve" smooth="yes"/>
+      <point x="360" y="-10"/>
+      <point x="427" y="55"/>
+      <point x="427" y="120" type="curve" smooth="yes"/>
+      <point x="427" y="177"/>
+      <point x="374" y="234"/>
+      <point x="270" y="249" type="curve"/>
+      <point x="269" y="241" type="line"/>
+      <point x="367" y="252"/>
+      <point x="417" y="302"/>
+      <point x="417" y="352" type="curve" smooth="yes"/>
+      <point x="417" y="410"/>
+      <point x="350" y="468"/>
+      <point x="240" y="468" type="curve" smooth="yes"/>
+      <point x="129" y="468"/>
+      <point x="59" y="410"/>
+      <point x="59" y="351" type="curve" smooth="yes"/>
+      <point x="59" y="304"/>
+      <point x="104" y="256"/>
+      <point x="201" y="241" type="curve"/>
+      <point x="201" y="249" type="line"/>
+      <point x="93" y="236"/>
+      <point x="40" y="177"/>
+      <point x="40" y="120" type="curve" smooth="yes"/>
+      <point x="40" y="55"/>
+      <point x="109" y="-10"/>
+    </contour>
+    <contour>
+      <point x="233" y="22" type="curve" smooth="yes"/>
+      <point x="183" y="22"/>
+      <point x="170" y="63"/>
+      <point x="170" y="120" type="curve" smooth="yes"/>
+      <point x="170" y="178"/>
+      <point x="184" y="226"/>
+      <point x="233" y="226" type="curve" smooth="yes"/>
+      <point x="283" y="226"/>
+      <point x="297" y="178"/>
+      <point x="297" y="119" type="curve" smooth="yes"/>
+      <point x="297" y="65"/>
+      <point x="285" y="22"/>
+    </contour>
+    <contour>
+      <point x="237" y="261" type="curve" smooth="yes"/>
+      <point x="199" y="261"/>
+      <point x="184" y="301"/>
+      <point x="184" y="352" type="curve" smooth="yes"/>
+      <point x="184" y="401"/>
+      <point x="198" y="436"/>
+      <point x="237" y="436" type="curve" smooth="yes"/>
+      <point x="277" y="436"/>
+      <point x="291" y="400"/>
+      <point x="291" y="352" type="curve" smooth="yes"/>
+      <point x="291" y="299"/>
+      <point x="275" y="261"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>10</integer>
+        <key>height</key>
+        <integer>57</integer>
+        <key>verticalShift</key>
+        <integer>305</integer>
+        <key>weight</key>
+        <integer>-180</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eight.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eight.lf</string>
+    </dict>
+  </lib>
+</glyph>

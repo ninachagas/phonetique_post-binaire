@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookcomb.short2" format="2">
+	<advance width="277"/>
+	<outline>
+		<contour>
+			<point x="195" y="662" type="curve" smooth="yes"/>
+			<point x="185" y="662"/>
+			<point x="174" y="667"/>
+			<point x="167" y="678" type="curve" smooth="yes"/>
+			<point x="136" y="717" type="line"/>
+			<point x="89" y="717" type="line"/>
+			<point x="56" y="684" type="line"/>
+			<point x="42" y="789" type="line"/>
+			<point x="171" y="789" type="line"/>
+			<point x="223" y="721" type="line" smooth="yes"/>
+			<point x="228" y="715"/>
+			<point x="231" y="707"/>
+			<point x="231" y="698" type="curve" smooth="yes"/>
+			<point x="231" y="680"/>
+			<point x="216" y="662"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>754</integer>
+						<key>width</key>
+						<integer>20</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>50</integer>
+						<key>width</key>
+						<integer>139</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

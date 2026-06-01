@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.subs" format="2">
+  <advance width="368"/>
+  <outline>
+    <component base="seven.sups" xOffset="-187" yOffset="-577"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven.sups</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven.sups</string>
+    </dict>
+  </lib>
+</glyph>

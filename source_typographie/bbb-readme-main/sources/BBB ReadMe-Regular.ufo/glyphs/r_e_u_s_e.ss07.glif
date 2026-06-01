@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r_e_u_s_e.ss07" format="2">
+  <advance width="2860"/>
+  <outline>
+    <component base="r" identifier="12CDEECC"/>
+    <component base="enb.ss07" xOffset="559" identifier="36E39E43"/>
+    <component base="u-etage" xOffset="1130" identifier="0B7873B8"/>
+    <component base="s-etage" xOffset="1738" identifier="B59EC739"/>
+    <component base="enb.ss07" xOffset="2297" identifier="FB2F5329"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-16 13:02:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>r</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>enb.ss07</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B7873B8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>12CDEECC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>36E39E43</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B59EC739</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FB2F5329</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

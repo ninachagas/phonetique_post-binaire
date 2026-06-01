@@ -1,0 +1,72 @@
+,,,,,,,,,,,,,,,,,
+GRAMMAIRES,,,,,,,,,,,,,,,,,
+BBB Read Me,,,,,,,,,,,,,,,,,
+ACADAM,,,,,,P1 - PC,,P2 - SC,,P3 - MC,,P4 - EB,,P5 – ZM,,P6 – NC,
+,Mot original,Déterminant,Terminaison,Mot post-binaire,Terminaison,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API
+"Dorothy Allison, Bastard out of Carolina",,,,,,,,,,,,,,,,,
+1,Mon/Ma,Déterminant possessif,Invariable,Mo,Invariable,Mo,mo,Mo,mo,Mo,mo,Mo,mo,Mo,mo,Mo,mo
+2,Oncle/Tante,Titre,Invariable,Tanl,Invariable,Tanl,tɑ̃l,Tanl,tɑ̃l,Tanl,tɑ̃l,Tanl,tɑ̃l,Tanl,tɑ̃l,Tanl,tɑ̃l
+3,Un/Une,Article indéfini,Invariable,Yn,Invariable,Yine,jin,Yine,jin,Ine,in,Ine,in,Ine,in,Un,œ̃
+4,Général/Générale,Substantif,al/ale ,Générax,ax,Générax,ʒe.ne.ʁaks,Générax,ʒe.ne.ʁaks,Générax,ʒe.ne.ʁaks,Générax,ʒe.ne.ʁaks,Générax,ʒe.ne.ʁaks,Générax,ʒe.ne.ʁaks
+5,Lui/Elle,Pronom personnel COI,Invariable,Ly,Invariable,Ly,li,Ly,li,Ly,li,Ly,li,Ly,li,Ly,li
+6,Il/Elle,Pronom personnel sujet,Invariable,Ol,Invariable,Ol,ɔl,Ol,ɔl,Ol,ɔl,Ol,ɔl,Ol,ɔl,Ol,ɔl
+7,Humain/Humaine,Substantif,ain/aine,Humainl,ainl,Youmanil,ju.ma.nil,Humènle,y.mɛnl,Humainèle,y.mɛ.nɛl,Humènle,y.mɛnl,Humènle,y.mɛnl,Humunle,y.mœ̃l
+8,Fort/Forte,Substantif,ort/orte,Fork,ork,Fork,fɔʁk,Fork,fɔʁk,Fork,fɔʁk,Fork,fɔʁk,Fork,fɔʁk,Fork,fɔʁk
+9,Cet/Cette,Déterminant démonstratif,Invariable,Cek,Invariable,Cek,sɛk,Cek,sɛk,Cek,sɛk,Cek,sɛk,Cek,sɛk,Cek,sɛk
+,,,,,,p1_pc_acadam_da,,p2_sc_acadam_da,,p3_mc_acadam_da,,p4_eb_acadam_da,,p5_zm_acadam_da,,p6_nc_acadam_da,
+Exercice de prononciation 1,,,,,,,,,,,,,,,,,
+1,Un/Une,Article indéfini,Invariable,Yn,Invariable,Yine,jin,Ine,in,Ine,in,Ine,in,Ine,in,Un,œ̃
+2,Pâtissier/Pâtissière,Substantif,ier/ière,Pâtissiol,iol,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtiziol,pa.ti.zjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl
+3,Tapissier/Tapissière,Substantif,ier/ière,Tapissiol,iol,Tapissiol,ta.ti.sjɔl,Tapissiol,ta.ti.sjɔl,Tapissiol,ta.ti.sjɔl,Tatiziol,ta.ti.zjɔl,Tapissiol,ta.ti.sjɔl,Tapissiol,ta.ti.sjɔl
+4,La/Le,Pronom personnel COD,Invariable,Lo,Invariable,Lo,lo,Lo,lo,Lo,lo,Lo,lo,Lo,lo,Lo,lo
+,,,,,,p1_pc_acadam_ep1,,p2_sc_acadam_ep1,,p3_mc_acadam_ep1,,p4_eb_acadam_ep1,,p5_zm_acadam_ep1,,p6_nc_acadam_ep1,
+Exercice de prononciation 2,,,,,,,,,,,,,,,,,
+1,La/Le,Pronom personnel COD,Invariable,Lo,Invariable,Lo,lo,Lo,lo,Lo,lo,Lo,lo,Lo,lo,Lo,lo
+2,Chef/Cheffe,Substantif,ef/effe,Chex,ex,Chex,ʃɛks,Chex,ʃɛks,Chex,ʃɛks,Chex,ʃɛks,Chex,ʃɛks,Chex,ʃɛks
+3,Cuisinier/Cuisinière,Substantif,ier/ière,Cusiniol,iol,Cuisiniol,kɥi.zi.njɔl,Cusiniol,kɥi.zi.njɔl,Cusiniol,kɥi.zi.njɔl,Cusiniol,kɥi.zi.njɔl,Cusiniol,kɥi.zi.njɔl,Cusiniol,kɥi.zi.njɔl
+4,Serveur/Serveuse,Substantif,eur/euse,Serveul,eul,Seviol,sə.vjɔl,Serveul,sɛʁ.vœl,Serveul,sɛʁ.vœl,Serveul,sɛʁ.vœl,Serveul,sɛʁ.vœl,Serveul,sɛʁ.vœl
+5,Maitre/Maitresse,Substantif,e/esse,Maitrek,ek,Maytrek,mɛ.tʁɛk,Maitrek,mɛ.tʁɛk,Maitrek,mɛ.tʁɛk,Maitrek,mɛ.tʁɛk,Maitrek,mɛ.tʁɛk,Maitrek,mɛ.tʁɛk
+6,Un/Une,Article indéfini,Invariable,Yn,Invariable,Yine,jin,Ine,in,Ine,in,Ine,in,Ine,in,Un,œ̃
+7,Client/Cliente,Substantif,ent/ente,Cliol,ol,Cliol,kli.jɔl,Cliol,kli.jɔl,Cliol,kli.jɔl,Cliol,kli.jɔl,Cliol,kli.jɔl,Cliol,kli.jɔl
+8,Accompagné/Accompagnée,Substantif,é/ée,Accompagnae,ae,Accompagneu,a.kɔ̃.pa.ɲø,Accompagnaé,a.kɔ̃.pa.ɲa.e,Accompagneu,a.kɔ̃.pa.ɲø,Accompagnaou,a.kɔ̃.pa.ɲa.u,Accompagnaé,a.kɔ̃.pa.ɲa.e,Accompagnaeu,a.kɔ̃.pa.ɲa.e.ø
+9,Sa/Son,Déterminant possessif,Invariable,So,Invariable,So,so,So,so,So,so,So,so,So,so,So,so
+10,Amant/Amante,Substantif,ant/ante,Amanl,anl,Amanelol,a.ma.nə.lɔl,Amol,a.mɔl,Amanl,a.mɑ̃l,Amanl,a.mɑ̃l,Amanl,a.mɑ̃l,Amanl,a.mɑ̃l
+11,Ancien/Ancienne,Substantif,en/enne,Anciol,ol,Yunankiol,jy.nɑ̃.kjɔl,Anciol,ɑ̃.sjɔl,Anciol,ɑ̃.sjɔl,Anciol,ɑ̃.sjɔl,Anciol,ɑ̃.sjɔl,Anciol,ɑ̃.sjɔl
+12,Pâtissier/Pâtissière,Substantif,ier/ière,Pâtissiol,iol,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl,Pâtissiol,pa.ti.sjɔl
+13,Reconverti/Reconvertie,Substantif,i/ie,Reconvertix,ix,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks
+,,,,,,p1_pc_acadam_ep2,,p2_sc_acadam_ep2,,p3_mc_acadam_ep2,,p4_eb_acadam_ep2,,p5_zm_acadam_ep2,,p6_nc_acadam_ep2,
+BBB Read Me,,,,,,,,,,,,,,,,,
+Système AL,,,,,,P1 - PC,,P2 - SC,,P3 - MC,,P4 - EB,,P5 – ZM,,P6 – NC,
+,Mot original,Déterminant,Terminaison,Mot post-binaire,Terminaison,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API,Mot entendu,Phonétique API
+"Dorothy Allison, Bastard out of Carolina",,,,,,,,,,,,,,,,,
+1,Mon/Ma,Déterminant possessif,Invariable,Mu,Invariable,Mo,mo,Mu,my,Mu,my,Mu,my,Mu,my,Mu,my
+2,Oncle/Tante,Titre,Invariable,Parfroeur,Invariable,Parfroheur,paʁ.fʁɔ.œʁ,Parfreur,paʁ.fʁœʁ,Parfroheur,paʁ.fʁɔ.œʁ,Parfroheur,paʁ.fʁɔ.œʁ,Pafreur,pa.fʁœʁ,Pafreur,pa.fʁœʁ
+3,Un/Une,Article indéfini,Invariable,An,Invariable,Ane,an,An,an,An,an,Ane,an,Ane,an,An ,ɑ̃
+4,Général/Générale,Substantif,al/ale ,Généralx,alx,Généralèx,ʒe.ne.ʁa.lɛks,Généralix,ʒe.ne.ʁa.liks,Généralax,ʒe.ne.ʁa.laks,Généralix,ʒe.ne.ʁa.liks,Généralix,ʒe.ne.ʁa.liks,Généralx,ʒe.ne.ʁa.lks
+5,Lui/Elle,Pronom personnel COI,Invariable,Al,Invariable,Al,al,Al,al,Al,al,Al,al,Al,al,Al,al
+6,Il/Elle,Pronom personnel sujet,Invariable,Al,Invariable,Al,al,Al,al,Al,al,Al,al,Al,al,Al,al
+7,Humain/Humaine,Substantif,ain/aine,Human,an,Yumane,jy.man,Human,y.mɑ̃,Humane,y.man,Humane,y.man,Humane,y.man,Human,y.mɑ̃
+8,Fort/Forte,Substantif,ort/orte,Fortx,ortx,Fortx,fɔʁks,Fortix,fɔʁ.tiks,Fortèx,fɔʁ.tɛks,Fortx,fɔʁks,Fortx,fɔʁks,Fortx,fɔʁks
+9,Cet/Cette,Déterminant démonstratif,Invariable,Çu ,Invariable,Çou,su,Çu,sy,Çu,sy,Çu,sy,Çou,su,Çou,su
+,,,,,,p1_pc_systeme-al_da,,p2_sc_systeme-al_da,,p3_mc_systeme-al_da,,p4_eb_systeme-al_da,,p5_zm_systeme-al_da,,p6_nc_systeme-al_da,
+Exercice de prononciation 1,,,,,,,,,,,,,,,,,
+1,Un/Une,Article indéfini,Invariable,An,Invariable,Ane,an,Ane,an,Ane,an,Ane,an,Ane,an,An ,ɑ̃
+2,Pâtissier/Pâtissière,Substantif,ier/ière,Pâtissièr,ièr,Pâtissière,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ,Patissier,pa.ti.sje,Pâtissière,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ
+3,Tapissier/Tapissière,Substantif,ier/ière,Tapissièr,ièr,Tapissière,ta.ti.sjɛʁ,Tapissière,ta.ti.sjɛʁ,Tapissier ,ta.ti.sje,Tapissière,ta.ti.sjɛʁ,Tapissière,ta.ti.sjɛʁ,Tapissière,ta.ti.sjɛʁ
+4,La/Le,Pronom personnel COD,Invariable,Lu,Invariable,Lu,ly,Lu,ly,Lu,ly,Lu,ly,Lu,ly,Lu,ly
+,,,,,,p1_pc_systeme-al_ep1,,p2_sc_systeme-al_ep1,,p3_mc_systeme-al_ep1,,p4_eb_systeme-al_ep1,,p5_zm_systeme-al_ep1,,p6_nc_systeme-al_ep1,
+Exercice de prononciation 2,,,,,,,,,,,,,,,,,
+1,La/Le,Pronom personnel COD,Invariable,Lu,Invariable,Lu,ly,Lu,ly,Lou,lu,Lu,ly,Lu,ly,Lu,ly
+2,Chef/Cheffe,Substantif,ef/effe,Chaf,af,Chaf,ʃaf,Chaf,ʃaf,Chaf,ʃaf,Chaf,ʃaf,Chaf,ʃaf,Chaf,ʃaf
+3,Cuisinier/Cuisinière,Substantif,ier/ière,Cuisinièr,ièr,Cuisinier,kɥi.zi.nje,Cuisinière ,kɥi.zi.njɛʁ,Cuisinier,kɥi.zi.nje,Cuisinière ,kɥi.zi.njɛʁ,Cuisinière ,kɥi.zi.njɛʁ,Cuisinière ,kɥi.zi.njɛʁ
+4,Serveur/Serveuse,Substantif,eur/euse,Servaire,aire,Servère,sɛʁ.vɛʁ,Servère,sɛʁ.vɛʁ,Servère,sɛʁ.vɛʁ,Servère,sɛʁ.vɛʁ,Servère,sɛʁ.vɛʁ,Servère,sɛʁ.vɛʁ
+5,Maitre/Maitresse,Substantif,e/esse,Maitras,as,Mètrasse,mɛ.tʁas,Mètrasse,mɛ.tʁas,Mètrasse,mɛ.tʁas,Mètrasse,mɛ.tʁas,Mètrasse,mɛ.tʁas,Mètrasse,mɛ.tʁas
+6,Un/Une,Article indéfini,Invariable,An,Invariable,Ane,an,Ane,an,An,an,Ane,an,Ane,an,An ,ɑ̃
+7,Client/Cliente,Substantif,ent/ente,Clienx,enx,Clien,kli.jɛ̃/,Clienx,kli.jɛ̃ks,Clienx,kli.jɛ̃ks,Clienx,kli.jɛ̃ks,Clienx,kli.jɛ̃ks,Clienx,kli.jɛ̃ks
+8,Accompagné/Accompagnée,Substantif,é/ée,Accompagnae,ae,Accompagnaeu,a.kɔ̃.pa.ɲa.ø,Accompagnaé,a.kɔ̃.pa.ɲa.e,Accompagnaé,a.kɔ̃.pa.ɲa.e,Accompagnaeu,a.kɔ̃.pa.ɲa.ø,Accompagnaé,a.kɔ̃.pa.ɲa.e,Accompagnaeu,a.kɔ̃.pa.ɲa.e.ø
+9,Sa/Son,Déterminant possessif,Invariable,Su,Invariable,Su,sy,Sune,syn,Su,sy,Su,sy,Sune,syn,Su,sy
+10,Amant/Amante,Substantif,ant/ante,Amanx,anx,Armax,aʁ.maks,Amanx,a.mɑ̃ks,Amanx,a.mɑ̃ks,Amanx,a.mɑ̃ks,Amanx,a.mɑ̃ks,Amanx,a.mɑ̃ks
+11,Ancien/Ancienne,Substantif,en/enne,Ancian,an,Anciane,ɑ̃.sjan,Anciane,ɑ̃.sjan,Ancian,ɑ̃.sjɑ̃,Anciane,ɑ̃.sjan,Anciane,ɑ̃.sjan,Ancian,ɑ̃.sjɑ̃
+12,Pâtissier/Pâtissière,Substantif,ier/ière,Pâtissièr,ièr,Pâtissier,pa.ti.sje,Pâtissière,pa.ti.sjɛʁ,Pâtissier,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ,Pâtissière,pa.ti.sjɛʁ
+13,Reconverti/Reconvertie,Substantif,i/ie,Reconvertix,ix,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks,Reconvertix ,ʁə.kɔ̃.vɛʁ.tiks
+,,,,,,p1_pc_systeme-al_ep2,,p2_sc_systeme-al_ep2,,p3_mc_systeme-al_ep2,,p4_eb_systeme-al_ep2,,p5_zm_systeme-al_ep2,,p6_nc_systeme-al_ep2,
