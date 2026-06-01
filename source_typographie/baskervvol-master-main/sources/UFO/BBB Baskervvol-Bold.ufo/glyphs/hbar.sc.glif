@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="hbar.sc" format="2">
-  <advance width="646"/>
-  <outline>
-    <component base="h.sc"/>
-    <component base="strokelongcomb.sc" xOffset="50" yOffset="-41"/>
-  </outline>
-</glyph>

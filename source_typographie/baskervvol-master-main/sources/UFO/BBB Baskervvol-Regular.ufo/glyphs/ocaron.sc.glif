@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ocaron.sc" format="2">
-  <advance width="605"/>
-  <outline>
-    <component base="o.sc"/>
-    <component base="caroncomb.sc" xOffset="149" yOffset="-255"/>
-  </outline>
-</glyph>

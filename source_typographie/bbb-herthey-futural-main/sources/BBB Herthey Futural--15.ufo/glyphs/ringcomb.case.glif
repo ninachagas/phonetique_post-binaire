@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ringcomb.case" format="2">
-	<advance width="285"/>
-	<anchor x="143" y="781" name="_top"/>
-	<anchor x="143" y="1002" name="top"/>
-	<outline>
-		<component base="ringcomb" yOffset="276"/>
-	</outline>
-</glyph>
