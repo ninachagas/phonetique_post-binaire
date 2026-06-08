@@ -1,6 +1,6 @@
 À travers Phonétique post-binaire, je souhaite entamer une recherche quant aux prononciations du langage post-binaire, poser ma pierre à l'édifice. Souvent évoqué lors de lancements typographiques, d'interviews, de conférences… L'oralisation de ces signes typographiques et grammaires questionne :
 
-##Comment les exprimer ?
+## Comment les exprimer ?
 
 Sur ce GitHub vous pouvez découvrir mes recherches, mes outils, mes réflexions et mes créations. Les ressources sont utilisables telles quelles afin de nourrir une nouvelle recherche mais elles sont également décomposées afin que vous puissiez les réemployer, les modifier, les transformer…
 Pour ce projet j'ai employé différents médiums. J'ai réalisé un livre nommé OPPB (outil de phonétique post-binaire), un support m'ayant servi pour enregistrer des participant·es. Il utilise 3 graphies différentes (ligature, diacritique, epsilon) et 2 grammaires (acadam et système al) post-binaires. J'ai sélectionné des typographies provenant exclusivement de la collective BBB (Bye Bye Binary) aux styles typographiques divers afin de couvrir approximativement le panel existant. OPPB se compose de 3 textes : un extrait de Bastard out of Carolina de Dorothy Allison et deux exercices de prononciations.
