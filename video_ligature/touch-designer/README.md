@@ -1,6 +1,6 @@
-Quick tips pour prendre en main les fichiers
+***Quick tips pour prendre en main les fichiers***
 
-Pour réaliser mon visuel j'ai utilisé la version experimental 2025.30060 de TouchDesigner car c'est avec ce modèle que je rencontrais le moins de bugs, notamment depuis la nouvelle mise à jour des opérateurs POP.
+Pour réaliser mon visuel j'ai utilisé la version <em>experimental 2025.30060</em> de TouchDesigner car c'est avec ce modèle que je rencontrais le moins de bugs, notamment depuis la nouvelle mise à jour des opérateurs POP.
 
 Dans asemic-writting_video-ligature.toe, certains aspects sont assez intéressants à modifier mais peuvent paraître brumeux si vous n'êtes pas familiers avec le fonctionnement de TouchDesigner.
 
