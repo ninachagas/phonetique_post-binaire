@@ -16,8 +16,6 @@ Ce tableur est donc très fourni. Il sert d'archive visuelle et lie le texte aux
 <li>Colonne F : Terminaison des mots post-binaires, liés à leurs typographie</li>
 </ul>
 
-<p><img width="2583" height="875" alt="Readme_tableur_" src="https://github.com/user-attachments/assets/6917ef17-08e8-43f3-b100-6cb7b8206588" /></p>
-
 <p>Les 12 dernières colonnes retranscrivent textuellement les enregistrements.</p>
 
 **Colonnes G-R :**
@@ -26,8 +24,6 @@ Ce tableur est donc très fourni. Il sert d'archive visuelle et lie le texte aux
 <li>Colonne G : Mots post-binaires entendus, liés à leurs typographie</li>
 <li>Colonne H : Traduction des mots post-binaires via le système API</li>
 </ul>
-
-<p><img width="2583" height="875" alt="Readme_tableur_2" src="https://github.com/user-attachments/assets/0dee54d2-bd58-4072-80cd-58985cc250d8" /></p>
 
 <p>Les 10 autres colonnes reprennent le même système avec les 5 autres personnes enregistrées.</p>
 
@@ -40,8 +36,6 @@ Ce tableur est donc très fourni. Il sert d'archive visuelle et lie le texte aux
 <li>Rangées 17-21 : Exercice de prononciation 1</li>
 <li>Rangées 23-36 : Exercice de prononciation 2</li>
 </ul>
-
-<p><img width="2583" height="875" alt="Readme_tableur_3" src="https://github.com/user-attachments/assets/2bc86a86-1a89-4f96-b6d2-3196a3bff85d" /></p>
 
 <p>Le tableur se poursuit sur le même modèle mais avec des typographies différentes.</p>
 
