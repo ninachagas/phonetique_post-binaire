@@ -1,5 +1,7 @@
 ***Quick tips pour prendre en main les fichiers***
 
+Pour réaliser ces visuels j'ai utilisé la version <em>experimental 2025.30060</em> de TouchDesigner car c'est avec ce modèle que je rencontrais le moins de bugs, notamment depuis la nouvelle mise à jour des opérateurs POP.
+
 **1. abstract-visual_audio-reactif.toe**
 
 Ce fichier devait être le visuel principal pour la vidéo. Par peur qu'il soit trop complexe, trop lourd, trop abstrait et donc trop détaché de la représentation du langage (écrit ou oral), je l'ai abandonné au profit d'<em>asemic-writting</em> qui se connecte davantage à mon propos. De nombreux éléments composent ce fichier, je vais donc me concentrer sur les éléments qui sont intéressants à modifier pour faire varier ce visuel.
