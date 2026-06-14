@@ -4,7 +4,7 @@ Le tableur est l'une des créations centrales de <em>Phonétique post-binaire</e
 
 Ce tableur est donc très fourni. Il sert d'archive visuelle et lie le texte aux audios. Les éléments sont hiérarchisés de manière élémentaire, il est donc peut-être nécessaire d'avoir quelques explications supplémentaires pour bien le comprendre et s'en emparer.
 
-<em>Les 5 premières colonnes décomposent les mots post-binaires utilisés dans les différents textes.</em>
+Les 5 premières colonnes décomposent les mots post-binaires utilisés dans les différents textes.
 
 **Colonnes B-F :**
 
@@ -27,7 +27,7 @@ Ce tableur est donc très fourni. Il sert d'archive visuelle et lie le texte aux
 
 <p>Les 10 autres colonnes reprennent le même système avec les 5 autres personnes enregistrées.</p>
 
-<em>Les rangées sont décomposées en fonction des typographies choisies, puis se divisent en 3 textes différents.</em>
+Les rangées sont décomposées en fonction des typographies choisies, puis se divisent en 3 textes différents.
 
 **Rangées 3-36 : BBB Open Sans**
 
