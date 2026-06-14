@@ -26,4 +26,10 @@ J'avais concue ce fichier dans le but de tracker les levres des utilisateurs lor
 
 Créer les contours du sujet pour le tracking :  
 
-Formes géométriques 
+Avant de créer des points et de les relier, il faut d'abord concevoir les contours du sujet. Pour cela, j'ai crée une chaine d'opérateurs diff1 > blur1 > thresh1. diff1 permet d'extraire la différence de la vidéo source, en créant un "coutour" colorimétrique, blur1 va venir atténuer ces contours afin que d'avantage de points puissent s'y connecter, les parametres interessants à modifier sont blur1 > blur > pre-shrink et size filter. Threshold à pour but de passer les contours en noir et blanc, si vous modifiez les valeurs de thresh1 > threshold > threshold, vous obtiendrez des variations plus ou moins intenses, ce qui à therme modifiera la connection entre les points.
+
+Formes géométriques :
+
+Toutes ces valeurs passent ensuite dans un script. Pour connecter ces donnés à des formes c'est assez simple. J'ai crée des rectangles qui s'étendent en focntion des zones de mouvements dans rectangle1. Ces formes ont des contours, vous pouvez les modifier dans line1 > line et jouer avec les parametres de cette fenetre. J'ai choisie d'interconnecter ces formes entre elles par des lignes, elles sont simples mais peuvent prendre des formes différentes, en cliquant sur convert1 > convert > convert to, vous pouvez choisir d'autres formes. Enfin si vous voulez simplement modifier les couleurs ou l'épaisseur, les parametres à modifier sont les memes que pour line1 mais avec line2.
+
+
