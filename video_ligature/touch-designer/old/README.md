@@ -22,7 +22,7 @@ Pour rendre mon visuel plus ou moins intense colorimétriquement parlant, j'ai j
 
 **2. tracking-top.toe**
 
-J'avais conçu ce fichier dans le but de tracker les lèvres des utilisateurs lorsque je commençais ce projet ; ne sachant pas exactement quelle forme allait prendre ma vidéo, j'avais créé un tracking qui suivait les ondulations du corps afin de créer de nouvelles formes liées aux mouvements labiaux.
+J'avais conçu ce fichier dans le but de tracker les lèvres des utilisateur·ices lorsque je commençais ce projet ; ne sachant pas exactement quelle forme allait prendre ma vidéo, j'avais créé un tracking qui suivait les ondulations du corps afin de créer de nouvelles formes liées aux mouvements labiaux.
 
 **Créer les contours du sujet pour le tracking :**
 
